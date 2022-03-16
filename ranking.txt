@@ -1,0 +1,1742 @@
+line:8     points: 9.0 name: 小王子 
+line:17     points: 9.0 name: 平凡的世界（全三部） 
+line:21     points: 9.0 name: 撒哈拉的故事 
+line:22     points: 9.0 name: 霍乱时期的爱情 
+line:24     points: 9.0 name: 月亮和六便士 
+line:25     points: 9.0 name: 哈利·波特与阿兹卡班的囚徒 
+line:27     points: 9.0 name: 局外人 
+line:30     points: 9.0 name: 哈利·波特与火焰杯 
+line:38     points: 9.0 name: 哈利·波特与死亡圣器 
+line:39     points: 9.0 name: 基督山伯爵 
+line:40     points: 9.0 name: 城南旧事 
+line:41     points: 9.0 name: 东方快车谋杀案 
+line:43     points: 9.0 name: 笑傲江湖（全四册） 
+line:48     points: 9.0 name: 格林童话全集 
+line:49     points: 9.0 name: 射雕英雄传（全四册） 
+line:56     points: 9.0 name: 刀锋 
+line:57     points: 9.0 name: 嫌疑人X的献身 
+line:62     points: 9.0 name: 悲惨世界（上中下） 
+line:63     points: 9.0 name: 许三观卖血记 
+line:64     points: 9.0 name: 嫌疑人X的献身 
+line:65     points: 9.0 name: 新名字的故事 
+line:68     points: 9.0 name: 平凡的世界 
+line:70     points: 9.0 name: 寻路中国 
+line:72     points: 9.0 name: 人间词话 
+line:74     points: 9.0 name: 我们仨 
+line:77     points: 9.0 name: 江城 
+line:79     points: 9.0 name: 历史深处的忧虑 
+line:84     points: 9.0 name: 一个叫欧维的男人决定去死 
+line:88     points: 9.0 name: 傲慢与偏见 
+line:90     points: 9.0 name: 教父 
+line:94     points: 9.0 name: 围城 
+line:98     points: 9.0 name: 浪潮之巅 
+line:104     points: 9.0 name: 悉达多 
+line:107     points: 9.0 name: 最好的告别 
+line:108     points: 9.0 name: 子不语 1-2 
+line:114     points: 9.0 name: 永恒的终结 
+line:126     points: 9.0 name: 草房子 
+line:128     points: 9.0 name: 人生的枷锁 
+line:131     points: 9.0 name: 叫魂 
+line:134     points: 9.0 name: 星空 
+line:135     points: 9.0 name: 万历十五年 
+line:137     points: 9.0 name: 金色梦乡 
+line:146     points: 9.0 name: 射雕英雄传 
+line:147     points: 9.0 name: 冬牧场 
+line:151     points: 9.0 name: 社会心理学 
+line:153     points: 9.0 name: 看不见的城市 
+line:154     points: 9.0 name: 异乡人 
+line:155     points: 9.0 name: 傲慢与偏见 
+line:159     points: 9.0 name: 献给阿尔吉侬的花束 
+line:160     points: 9.0 name: 圣经 
+line:164     points: 9.0 name: 人间草木 
+line:166     points: 9.0 name: 德米安 
+line:168     points: 9.0 name: 绿毛水怪 
+line:173     points: 9.0 name: 沉默的大多数 
+line:176     points: 9.0 name: 茶馆 
+line:178     points: 9.0 name: 我不知道该说什么，关于死亡还是爱情 
+line:184     points: 9.0 name: 白鹿原 
+line:186     points: 9.0 name: 活了100万次的猫 
+line:189     points: 9.0 name: 我也有一个梦想 
+line:192     points: 9.0 name: 额尔古纳河右岸 
+line:198     points: 9.0 name: 面纱 
+line:201     points: 9.0 name: 鹿鼎记 
+line:205     points: 9.0 name: 漩涡 
+line:211     points: 9.0 name: 亲密关系 
+line:222     points: 9.0 name: 平凡的世界 
+line:228     points: 9.0 name: 强风吹拂 
+line:235     points: 9.0 name: 银河帝国：基地 
+line:241     points: 9.0 name: 鋼之鍊金術師 1 
+line:244     points: 9.0 name: 荒原狼 
+line:247     points: 9.0 name: 梦里花落知多少 
+line:252     points: 9.0 name: 无人生还 
+line:265     points: 9.0 name: 牡丹亭 
+line:266     points: 9.0 name: 好妈妈胜过好老师 
+line:273     points: 9.0 name: 国富论 
+line:276     points: 9.0 name: 神秘的魔法石 
+line:282     points: 9.0 name: 魔戒（第三部） 
+line:289     points: 9.0 name: 活着为了讲述 
+line:292     points: 9.0 name: 毛姆短篇小说精选集 
+line:301     points: 9.0 name: 天龙八部（全五册） 
+line:306     points: 9.0 name: 长袜子皮皮 
+line:315     points: 9.0 name: 孩子们的诗 
+line:331     points: 9.0 name: 遥远的向日葵地 
+line:333     points: 9.0 name: 给青年诗人的信 
+line:336     points: 9.0 name: 来自新世界 （上下） 
+line:350     points: 9.0 name: 夜莺与玫瑰 
+line:356     points: 9.0 name: 沉默的大多数 
+line:357     points: 9.0 name: 你一生的故事 
+line:361     points: 9.0 name: 源泉 
+line:363     points: 9.0 name: 作为意志和表象的世界 
+line:371     points: 9.0 name: 肠子的小心思 
+line:373     points: 9.0 name: 银河帝国2：基地与帝国 
+line:374     points: 9.0 name: 荒原狼 
+line:375     points: 9.0 name: NANA 12 
+line:380     points: 9.0 name: 白夜行 
+line:386     points: 9.0 name: 黄金时代 
+line:393     points: 9.0 name: 公正 
+line:395     points: 9.0 name: 人鼠之间 
+line:402     points: 9.0 name: 我的精神家园 
+line:403     points: 9.0 name: 万水千山走遍 
+line:416     points: 9.0 name: 卡夫卡小说全集（全三册） 
+line:423     points: 9.0 name: 士兵突击 
+line:430     points: 9.0 name: 沙之书 
+line:433     points: 9.0 name: 万水千山走遍 
+line:437     points: 9.0 name: 被爱路过 
+line:444     points: 9.0 name: 江村经济 
+line:446     points: 9.0 name: 古汉语常用字字典 
+line:448     points: 9.0 name: 1453 
+line:450     points: 9.0 name: 棋王 
+line:451     points: 9.0 name: 万物既伟大又渺小 
+line:454     points: 9.0 name: 络新妇之理（下） 
+line:456     points: 9.0 name: 失落的一角遇见大圆满 
+line:469     points: 9.0 name: 人间词话手稿本全编 
+line:471     points: 9.0 name: 四世同堂（上下） 
+line:480     points: 9.0 name: GTO Vol. 1 
+line:482     points: 9.0 name: Happy Birth Day 
+line:484     points: 9.0 name: 惶然录 
+line:489     points: 9.0 name: 新概念英语（3） 
+line:493     points: 9.0 name: 笑傲江湖 
+line:498     points: 9.0 name: 项塔兰 
+line:499     points: 9.0 name: 采桑子 
+line:502     points: 9.0 name: 海伯利安 
+line:503     points: 9.0 name: 围城 
+line:504     points: 9.0 name: 巴黎评论·作家访谈Ⅰ 
+line:512     points: 9.0 name: 切尔诺贝利的祭祷 
+line:515     points: 9.0 name: 帷幕 
+line:523     points: 9.0 name: 這些人，那些事 
+line:526     points: 9.0 name: 文明之光（第一册） 
+line:530     points: 9.0 name: 香初上舞·终上 
+line:535     points: 9.0 name: 哭泣的駱駝 
+line:536     points: 9.0 name: 离婚 
+line:551     points: 9.0 name: 我们时代的神经症人格 
+line:553     points: 9.0 name: 纯粹理性批判 
+line:556     points: 9.0 name: 三毛从军记全集 
+line:566     points: 9.0 name: 火盃的考驗 
+line:568     points: 9.0 name: 许三观卖血记 
+line:570     points: 9.0 name: 陈寅恪魏晋南北朝史讲演录 
+line:573     points: 9.0 name: 星空 
+line:579     points: 9.0 name: 大问题 
+line:582     points: 9.0 name: 香初上舞·再上 
+line:589     points: 9.0 name: 大师和玛格丽特 
+line:594     points: 9.0 name: 夏宇詩集／Salsa 
+line:596     points: 9.0 name: 小王子 
+line:597     points: 9.0 name: 银河帝国6：基地边缘 
+line:604     points: 9.0 name: 逃避自由 
+line:616     points: 9.0 name: 蝙蝠侠：致命玩笑 
+line:619     points: 9.0 name: 理想国与哲人王 
+line:620     points: 9.0 name: 中国近代史 
+line:621     points: 9.0 name: 新月集·飞鸟集 
+line:633     points: 9.0 name: 万历十五年 
+line:635     points: 9.0 name: My Way 2 
+line:637     points: 9.0 name: 热爱生命 
+line:638     points: 9.0 name: 水浒传 
+line:641     points: 9.0 name: 浮生六记 
+line:642     points: 9.0 name: My Way 1 
+line:645     points: 9.0 name: 美国纽约摄影学院摄影教材（下） 
+line:646     points: 9.0 name: 中国古代文化常识 
+line:648     points: 9.0 name: 人生的枷锁 
+line:649     points: 9.0 name: 朱生豪情书全集 
+line:652     points: 9.0 name: 青铜时代 
+line:660     points: 9.0 name: 博尔赫斯诗选 
+line:662     points: 9.0 name: 欧亨利短篇小说精选 
+line:675     points: 9.0 name: 超越死亡 
+line:680     points: 9.0 name: 容忍与自由 
+line:685     points: 9.0 name: 王小波全集（第二卷 杂文） 
+line:686     points: 9.0 name: 浮生六记 
+line:718     points: 9.0 name: 以你的名字呼喚我 
+line:720     points: 9.0 name: 海洋帝国 
+line:727     points: 9.0 name: 罗生门 
+line:738     points: 9.0 name: 只是孩子 
+line:741     points: 9.0 name: 人间是剧场 
+line:747     points: 9.0 name: 灵魂的事 
+line:753     points: 9.0 name: 心灵的焦灼 
+line:754     points: 9.0 name: 卡尔维诺文集（第五卷） 
+line:755     points: 9.0 name: 时光电影院 
+line:763     points: 9.0 name: 草房子 
+line:765     points: 9.0 name: 政府论（下篇） 
+line:772     points: 9.0 name: 银河帝国8：我，机器人 
+line:776     points: 9.0 name: 佩德罗·巴拉莫 
+line:784     points: 9.0 name: 金蔷薇 
+line:786     points: 9.0 name: 世界一初恋 ~小野寺律の場合~ 
+line:792     points: 9.0 name: 设计模式 
+line:795     points: 9.0 name: 月亮與六便士 
+line:796     points: 9.0 name: 超合金社团（1、2） 
+line:797     points: 9.0 name: 张国荣的时光 
+line:798     points: 9.0 name: 蹦蹦跳跳的仙太郎(1) 
+line:808     points: 9.0 name: 费马大定理 
+line:811     points: 9.0 name: 我是女兵，也是女人 
+line:817     points: 9.0 name: 玻璃球游戏 
+line:818     points: 9.0 name: 莎士比亚喜剧悲剧集 
+line:822     points: 9.0 name: 佩德罗·巴拉莫 
+line:825     points: 9.0 name: 苏菲的世界 
+line:828     points: 9.0 name: 诗学 
+line:833     points: 9.0 name: 基地前传2·迈向基地（上下） 
+line:834     points: 9.0 name: 让爱点亮 
+line:839     points: 9.0 name: 流言 
+line:847     points: 9.0 name: 蒋勋说红楼梦（第二辑） 
+line:849     points: 9.0 name: 联邦党人文集 
+line:860     points: 9.0 name: 天人五衰 
+line:871     points: 9.0 name: 天渊 
+line:878     points: 9.0 name: 斐多 
+line:879     points: 9.0 name: 呼兰河传 
+line:884     points: 9.0 name: 中国文化要义 
+line:891     points: 9.0 name: 非人哉 
+line:903     points: 9.0 name: 野蛮大陆 
+line:904     points: 9.0 name: 魔戒（第三部） 
+line:908     points: 9.0 name: 上学记 
+line:915     points: 9.0 name: 消失中的江城 
+line:922     points: 9.0 name: 論語譯註 
+line:935     points: 9.0 name: 重返狼群 
+line:937     points: 9.0 name: 少数派报告 
+line:941     points: 9.0 name: 月亮忘记了 
+line:942     points: 9.0 name: 罐头小人 
+line:945     points: 9.0 name: 明朝那些事兒 肆 
+line:956     points: 9.0 name: 葫芦兄弟 
+line:980     points: 9.0 name: 黄金时代 黑铁时代 
+line:985     points: 9.0 name: 额尔古纳河右岸 
+line:986     points: 9.0 name: 佛教的见地与修道 
+line:992     points: 9.0 name: 猎魔人2：宿命之剑 
+line:994     points: 9.0 name: 伯罗奔尼撒战争史 
+line:995     points: 9.0 name: 包法利夫人 
+line:1004     points: 9.0 name: 深夜食堂 06 
+line:1005     points: 9.0 name: 1844年经济学哲学手稿 
+line:1009     points: 9.0 name: 鲁迅杂文全集 
+line:1011     points: 9.0 name: 夹边沟记事 
+line:1015     points: 9.0 name: 三体3 
+line:1017     points: 9.0 name: 悉达多 
+line:1020     points: 9.0 name: 小王子 
+line:1024     points: 9.0 name: 爱你就像爱生命（精装全彩珍藏） 
+line:1025     points: 9.0 name: 棋王 树王 孩子王 
+line:1027     points: 9.0 name: 复杂 
+line:1044     points: 9.0 name: 解体概要 
+line:1048     points: 9.0 name: 傲慢与偏见 
+line:1051     points: 9.0 name: 蒋勋说红楼梦（第三辑） 
+line:1056     points: 9.0 name: 蝙蝠侠：缄默 
+line:1057     points: 9.0 name: 写在人生边上 写在人生边上的边上 石语 
+line:1061     points: 9.0 name: 从文自传 
+line:1067     points: 9.0 name: 统计学习方法 
+line:1069     points: 9.0 name: 沉默的大多数 
+line:1073     points: 9.0 name: UNIX编程艺术 
+line:1076     points: 9.0 name: 身体从未忘记 
+line:1080     points: 9.0 name: 早晨从中午开始 
+line:1087     points: 9.0 name: 新概念英语（4） 
+line:1088     points: 9.0 name: When Breath Becomes Air 
+line:1097     points: 9.0 name: 七缀集 
+line:1099     points: 9.0 name: 踮脚张望2 
+line:1101     points: 9.0 name: 大学·中庸 
+line:1102     points: 9.0 name: 白鹿原 
+line:1107     points: 9.0 name: 莎士比亚悲剧集 
+line:1108     points: 9.0 name: 金瓶梅词话（全两册） 
+line:1109     points: 9.0 name: 重构 
+line:1116     points: 9.0 name: 小灵通漫游未来 
+line:1134     points: 9.0 name: 檀香刑 
+line:1142     points: 9.0 name: 营销管理 
+line:1144     points: 9.0 name: 大师与玛格丽特 
+line:1168     points: 9.0 name: 金枝 
+line:1173     points: 9.0 name: 蒋勋说红楼梦 
+line:1174     points: 9.0 name: 只想告訴你01 
+line:1175     points: 9.0 name: The Kite Runner 
+line:1181     points: 9.0 name: 谜宫·如意琳琅图集 
+line:1183     points: 9.0 name: 画夜 
+line:1202     points: 9.0 name: 重构 
+line:1205     points: 9.0 name: 道连·葛雷的画像 
+line:1206     points: 9.0 name: 天真的人类学家 
+line:1207     points: 9.0 name: 一个陌生女人的来信 
+line:1211     points: 9.0 name: 黄金时代 
+line:1216     points: 9.0 name: 不可思议的朋友 
+line:1226     points: 9.0 name: 外部空间设计 
+line:1233     points: 9.0 name: 新闻理论十讲 
+line:1236     points: 9.0 name: 二十世纪西方文学理论 
+line:1238     points: 9.0 name: 世界第一的初恋 
+line:1244     points: 9.0 name: 蒋勋说红楼梦（第四辑） 
+line:1246     points: 9.0 name: 百鬼夜行抄12 
+line:1250     points: 9.0 name: 道林格雷的画像 
+line:1254     points: 9.0 name: 十二國記：月之影·影之海（上） 
+line:1260     points: 9.0 name: 态度改变与社会影响 
+line:1261     points: 9.0 name: 死屋 
+line:1267     points: 9.0 name: 爱与黑暗的故事 
+line:1272     points: 9.0 name: 撒马尔罕的金桃 
+line:1276     points: 9.0 name: 毛泽东选集 第三卷 
+line:1281     points: 9.0 name: 柏拉图对话集 
+line:1285     points: 9.0 name: 莎乐美 道林・格雷的画像 
+line:1287     points: 9.0 name: 神经外科的黑色喜剧 
+line:1292     points: 9.0 name: 上帝掷骰子吗？ 
+line:1293     points: 9.0 name: 無頭騎士異聞錄 DuRaRaRa!! 01 
+line:1294     points: 9.0 name: 深入理解Java虚拟机（第2版） 
+line:1297     points: 9.0 name: 飞鸟集 
+line:1299     points: 9.0 name: 罗杰・艾克罗伊德谋杀案 
+line:1308     points: 9.0 name: 阿城精选集 
+line:1310     points: 9.0 name: 孟子譯注 
+line:1311     points: 9.0 name: 欲望号街车 
+line:1319     points: 9.0 name: 睡魔1：前奏与夜曲 
+line:1334     points: 9.0 name: 小説・秒速5センチメートル 
+line:1346     points: 9.0 name: 人间词话七讲 
+line:1356     points: 9.0 name: 美国纽约摄影学院摄影教材（下册） 
+line:1361     points: 9.0 name: 电影是什么？ 
+line:1362     points: 9.0 name: 江村经济 
+line:1365     points: 9.0 name: 新世紀福音戰士01 
+line:1369     points: 9.0 name: 我们赖以生存的隐喻 
+line:1370     points: 9.0 name: 我的世界观 
+line:1373     points: 9.0 name: 朝花夕拾 
+line:1374     points: 9.0 name: 隔江山色 
+line:1381     points: 9.0 name: 金瓶梅 
+line:1392     points: 9.0 name: 论法的精神（上） 
+line:1402     points: 9.0 name: 另一个，同一个 
+line:1403     points: 9.0 name: 将进酒 
+line:1409     points: 9.0 name: 霍乱时期的爱情 
+line:1410     points: 9.0 name: 故道白云 
+line:1411     points: 9.0 name: 孽子 
+line:1416     points: 9.0 name: 人间词话 
+line:1417     points: 9.0 name: 控制论与科学方法论 
+line:1440     points: 9.0 name: 銃夢01 
+line:1442     points: 9.0 name: 周易 
+line:1444     points: 9.0 name: 花のみぞ知る 1 
+line:1446     points: 9.0 name: 哲学研究 
+line:1447     points: 9.0 name: 集体智慧编程 
+line:1448     points: 9.0 name: 月亮与六便士 
+line:1451     points: 9.0 name: 你是你吃出来的 
+line:1454     points: 9.0 name: 蒋勋说红楼梦（第五辑） 
+line:1457     points: 9.0 name: 奇诺之旅I 
+line:1458     points: 9.0 name: 失败者的春秋 
+line:1461     points: 9.0 name: 超长篇机器猫哆啦A梦15 
+line:1462     points: 9.0 name: 昨日的美食 01 
+line:1463     points: 9.0 name: C和指针 
+line:1465     points: 9.0 name: 莫泊桑短篇小说精选 
+line:1466     points: 9.0 name: The Martian 
+line:1469     points: 9.0 name: 傅山的世界 
+line:1470     points: 9.0 name: 山海经全译 
+line:1472     points: 9.0 name: 城南旧事 
+line:1473     points: 9.0 name: 简明中国历史地图集 
+line:1488     points: 9.0 name: 敏捷软件开发 
+line:1493     points: 9.0 name: 聊斋志异 
+line:1504     points: 9.0 name: 叔本华论说文集 
+line:1507     points: 9.0 name: 人间词话 
+line:1508     points: 9.0 name: 诗艺 
+line:1511     points: 9.0 name: 博尔赫斯，口述 
+line:1513     points: 9.0 name: 佛陀传 
+line:1517     points: 9.0 name: 寄生獸 (完全版) (Vol. 5) 
+line:1521     points: 9.0 name: 深夜食堂 11 
+line:1522     points: 9.0 name: 平凡的世界（全三部） 
+line:1523     points: 9.0 name: 这么多年 
+line:1527     points: 9.0 name: 股市真规则 
+line:1529     points: 9.0 name: 人的境况 
+line:1530     points: 9.0 name: 看不见的森林 
+line:1531     points: 9.0 name: 全职高手15·决战嘉世 
+line:1533     points: 9.0 name: 小兔彼得和他的朋友们（全3册） 
+line:1535     points: 9.0 name: 顾城诗全集 
+line:1536     points: 9.0 name: 生育制度 
+line:1537     points: 9.0 name: 中国哲学史 
+line:1539     points: 9.0 name: 明朝那些事兒 伍 
+line:1540     points: 9.0 name: 奥赛罗 
+line:1542     points: 9.0 name: 蒋勋说红楼梦（第六辑） 
+line:1545     points: 9.0 name: 新月集·飞鸟集 
+line:1547     points: 9.0 name: 阿加莎·克里斯蒂自传 
+line:1550     points: 9.0 name: 渴望生活-凡高的故事 
+line:1551     points: 9.0 name: 文學少女（05） 
+line:1554     points: 9.0 name: 喧哗与骚动 
+line:1560     points: 9.0 name: 卓有成效的管理者 （中英文双语典藏版） 
+line:1561     points: 9.0 name: 被遗忘的士兵 
+line:1562     points: 9.0 name: 荒野的呼唤 
+line:1563     points: 9.0 name: 幾米創作10年精選 
+line:1564     points: 9.0 name: 王小波全集 第七卷 
+line:1567     points: 9.0 name: 黄金时代 
+line:1573     points: 9.0 name: 柳如是别传（全三册） 
+line:1578     points: 9.0 name: 西线无战事 
+line:1588     points: 9.0 name: 中国古代思想史论 
+line:1593     points: 9.0 name: 檻の外 
+line:1596     points: 9.0 name: 未成年（6、7） 
+line:1599     points: 9.0 name: 中国建筑史 
+line:1600     points: 9.0 name: 王小波全集(第八卷) 
+line:1601     points: 9.0 name: 叔本华的治疗 
+line:1602     points: 9.0 name: 经济解释卷一： 科学说需求 （神州增订版） 
+line:1606     points: 9.0 name: 羊脂球 
+line:1607     points: 9.0 name: 进化心理学(第4版) 
+line:1608     points: 9.0 name: 倾城之恋 
+line:1610     points: 9.0 name: The Moon and Sixpence 
+line:1611     points: 9.0 name: 长歌行 09 
+line:1612     points: 9.0 name: 呐喊 
+line:1615     points: 9.0 name: 绿山墙的安妮 
+line:1616     points: 9.0 name: 浮生六记 
+line:1617     points: 9.0 name: Java并发编程实战 
+line:1618     points: 9.0 name: 奥丽芙·基特里奇 
+line:1622     points: 9.0 name: 中国古代物质文化 
+line:1628     points: 9.0 name: 九故事 
+line:1634     points: 9.0 name: 3月的獅子(01) 
+line:1639     points: 9.0 name: 论人与人之间不平等的起因和基础 
+line:1640     points: 9.0 name: 蒋勋说红楼梦（第七辑） 
+line:1641     points: 9.0 name: 美国讲稿 
+line:1643     points: 9.0 name: 坏狐狸 
+line:1645     points: 9.0 name: 恩宠与勇气：超越死亡 
+line:1646     points: 9.0 name: Murder on the Orient Express 
+line:1648     points: 9.0 name: 蝙蝠侠：猫头鹰法庭 
+line:1649     points: 9.0 name: 蒋勋说红楼梦（第八辑） 
+line:1651     points: 9.0 name: 世界名著百部 
+line:1653     points: 9.0 name: 伊利亚特 
+line:1655     points: 9.0 name: 未来千年文学备忘录 
+line:1657     points: 9.0 name: 八十忆双亲 师友杂忆 
+line:1658     points: 9.0 name: 重屏 
+line:1659     points: 9.0 name: 庄子諵譁（下） 
+line:1661     points: 9.0 name: 强风吹拂 
+line:1664     points: 9.0 name: 八月之光 
+line:1667     points: 9.0 name: 游戏 
+line:1672     points: 9.0 name: 营销管理 
+line:1677     points: 9.0 name: 佩德罗·巴拉莫 
+line:1678     points: 9.0 name: 天朝的崩溃 
+line:1679     points: 9.0 name: 血色浪漫 
+line:1680     points: 9.0 name: 朝花夕拾 
+line:1683     points: 9.0 name: 如何看懂印象派 
+line:1684     points: 9.0 name: 小公主 
+line:1685     points: 9.0 name: 神鵰俠侶 
+line:1687     points: 9.0 name: 野性的呼唤 
+line:1689     points: 9.0 name: 化物語 上 
+line:1690     points: 9.0 name: 观呼吸 
+line:1692     points: 9.0 name: 魔兽世界编年史 
+line:1697     points: 9.0 name: 朱光潜谈美 
+line:1699     points: 9.0 name: 怪老头儿 
+line:1700     points: 9.0 name: 箱の中 (Holly Novels) 
+line:1702     points: 9.0 name: 涅朵奇卡·涅茨瓦诺娃 
+line:1703     points: 9.0 name: 邦查女孩 
+line:1706     points: 9.0 name: 万历十五年 
+line:1707     points: 9.0 name: 大都会艺术博物馆指南 
+line:1708     points: 9.0 name: 君に届け 1 
+line:1709     points: 9.0 name: 局外人·鼠疫 
+line:1711     points: 9.0 name: 銀河鐵道999 （1） 
+line:1716     points: 9.0 name: 蛇王淘金 
+line:1717     points: 9.0 name: 唐诗杂论 
+line:1718     points: 9.0 name: 孟子 
+line:1719     points: 9.0 name: 哭泣的骆驼 
+line:1720     points: 9.0 name: 小房子 
+line:1721     points: 9.0 name: 明朝那些事兒 柒 
+line:1722     points: 9.0 name: 海浪 
+line:1723     points: 9.0 name: 地狱一季 
+line:1724     points: 9.0 name: 正见 
+line:1725     points: 9.0 name: 青铜时代 
+line:1726     points: 9.0 name: 菜根谭 
+line:1727     points: 9.0 name: 终极往事 
+line:1728     points: 9.0 name: 哈扎尔辞典 
+line:1729     points: 9.0 name: 国家记忆 
+line:1730     points: 9.0 name: 劍豪生死鬥(01) 
+line:1731     points: 9.0 name: 股市真规则 
+line:1732     points: 9.0 name: 我的精神家园 
+line:1733     points: 9.0 name: 社会学（第五版） 
+line:1734     points: 9.0 name: 银河帝国2：基地与帝国 
+line:1735     points: 9.0 name: 晴天有时下猪 
+line:1736     points: 9.0 name: 茶馆之殇 
+line:1737     points: 9.0 name: 一人之下 
+line:1738     points: 9.0 name: 过于喧嚣的孤独 
+line:1739     points: 9.0 name: 刀锋 
+line:1740     points: 9.0 name: 恋人絮语 
+line:1741     points: 9.0 name: 蒼井優「ダンデライオン」 
+line:1742     points: 9.0 name: 失焦 
+line:1743     points: 9.0 name: 顾城诗全编 
+line:1744     points: 9.0 name: 東京BABYLON (Vol. 3) 
+line:1745     points: 9.0 name: 福尔摩斯探案全集 
+line:1746     points: 9.0 name: 城南旧事 
+line:1747     points: 9.0 name: 王小波全集（第二卷 杂文） 
+line:9     points: 9.1 name: 白夜行 
+line:12     points: 9.1 name: 白夜行 
+line:18     points: 9.1 name: 活着 
+line:20     points: 9.1 name: 哈利·波特与魔法石 
+line:23     points: 9.1 name: 人类简史 
+line:31     points: 9.1 name: 天龙八部 
+line:32     points: 9.1 name: 沉默的大多数 
+line:35     points: 9.1 name: 明朝那些事儿（1-9） 
+line:36     points: 9.1 name: 活着 
+line:37     points: 9.1 name: 肖申克的救赎 
+line:47     points: 9.1 name: 我与地坛 
+line:66     points: 9.1 name: 月亮和六便士 
+line:69     points: 9.1 name: 失踪的孩子 
+line:73     points: 9.1 name: 文学回忆录（全2册） 
+line:75     points: 9.1 name: 平凡的世界（全三册） 
+line:80     points: 9.1 name: 小狗钱钱 
+line:85     points: 9.1 name: 我的精神家园 
+line:97     points: 9.1 name: 树上的男爵 
+line:101     points: 9.1 name: 鼠疫 
+line:110     points: 9.1 name: 动物庄园 
+line:117     points: 9.1 name: 万历十五年（增订本） 
+line:119     points: 9.1 name: 平如美棠 
+line:120     points: 9.1 name: 人类简史 
+line:125     points: 9.1 name: NANA（1-13） 
+line:127     points: 9.1 name: 深夜食堂 01 
+line:130     points: 9.1 name: 教父 
+line:139     points: 9.1 name: 局外人 
+line:140     points: 9.1 name: 王尔德童话 
+line:143     points: 9.1 name: 平凡的世界 
+line:145     points: 9.1 name: 孽子 
+line:148     points: 9.1 name: 经济学原理（上下） 
+line:149     points: 9.1 name: 温柔的夜 
+line:161     points: 9.1 name: 古文观止 
+line:165     points: 9.1 name: 城南旧事 
+line:169     points: 9.1 name: 霸王别姬 
+line:170     points: 9.1 name: 论语 
+line:171     points: 9.1 name: 半生缘 
+line:177     points: 9.1 name: 罪与罚 
+line:179     points: 9.1 name: 失明症漫记 
+line:185     points: 9.1 name: 阿勒泰的角落 
+line:195     points: 9.1 name: 小王子（中英文对照本） 
+line:200     points: 9.1 name: 機器娃娃(1) 
+line:204     points: 9.1 name: 窗边的小豆豆 
+line:206     points: 9.1 name: 天朝的崩溃 
+line:208     points: 9.1 name: 全球通史 
+line:210     points: 9.1 name: 小王子 
+line:213     points: 9.1 name: 美丽新世界 
+line:216     points: 9.1 name: 海的女儿 
+line:217     points: 9.1 name: 美国纽约摄影学院摄影教材（上） 
+line:219     points: 9.1 name: 十万个为什么 
+line:225     points: 9.1 name: 海风中失落的血色馈赠 
+line:226     points: 9.1 name: 深夜食堂 02 
+line:227     points: 9.1 name: 从一到无穷大 
+line:238     points: 9.1 name: 梦里花落知多少 
+line:246     points: 9.1 name: 绿山墙的安妮 
+line:251     points: 9.1 name: 切尔诺贝利的悲鸣 
+line:255     points: 9.1 name: 象棋的故事 
+line:258     points: 9.1 name: 社会性动物 
+line:259     points: 9.1 name: 小王子 
+line:260     points: 9.1 name: 灯塔 
+line:261     points: 9.1 name: 霸王别姬 
+line:267     points: 9.1 name: 众病之王 
+line:269     points: 9.1 name: 深夜食堂 03 
+line:275     points: 9.1 name: 傲慢与偏见 
+line:279     points: 9.1 name: 设计中的设计 | 全本 
+line:280     points: 9.1 name: 你看起来好像很好吃 
+line:281     points: 9.1 name: 恐怖宠物店1 
+line:288     points: 9.1 name: 围城 
+line:290     points: 9.1 name: 悉达多 
+line:294     points: 9.1 name: 白鹿原 
+line:296     points: 9.1 name: 台北人 
+line:308     points: 9.1 name: 深夜食堂 04 
+line:310     points: 9.1 name: 百年孤独 
+line:316     points: 9.1 name: 温柔的夜 
+line:317     points: 9.1 name: OPUS 作品 
+line:318     points: 9.1 name: 现代艺术150年 
+line:319     points: 9.1 name: 月亮和六便士 
+line:321     points: 9.1 name: 美国宪政历程 
+line:323     points: 9.1 name: 我亲爱的甜橙树 
+line:325     points: 9.1 name: 2001太空漫游 
+line:326     points: 9.1 name: 极简宇宙史 
+line:328     points: 9.1 name: 洞穴奇案 
+line:338     points: 9.1 name: 骆驼祥子 
+line:348     points: 9.1 name: 阿城精选集 
+line:351     points: 9.1 name: 撒哈拉的故事 
+line:369     points: 9.1 name: 维特根斯坦传 
+line:370     points: 9.1 name: 顾城的诗 顾城的画 
+line:392     points: 9.1 name: 海伯利安 
+line:404     points: 9.1 name: 平凡的世界（全三册） 
+line:409     points: 9.1 name: 给青年诗人的信 
+line:412     points: 9.1 name: 13 67 
+line:418     points: 9.1 name: 小径分岔的花园 
+line:419     points: 9.1 name: 万历十五年 
+line:422     points: 9.1 name: 王小波全集（第一卷 杂文） 
+line:428     points: 9.1 name: 人生的智慧 
+line:429     points: 9.1 name: 世说新语 
+line:431     points: 9.1 name: 直捣蜂窝的女孩 
+line:436     points: 9.1 name: 神雕侠侣（全四册） 
+line:449     points: 9.1 name: Flipped 
+line:453     points: 9.1 name: 飞鸟集 
+line:455     points: 9.1 name: 绿毛水怪 
+line:458     points: 9.1 name: 棋王.樹王.孩子王 
+line:460     points: 9.1 name: 对伪心理学说不 
+line:462     points: 9.1 name: 深夜食堂 05 
+line:465     points: 9.1 name: 安徒生童话 
+line:473     points: 9.1 name: 福尔摩斯探案集 
+line:474     points: 9.1 name: 银河帝国4：基地前奏 
+line:475     points: 9.1 name: 雕刻时光 
+line:478     points: 9.1 name: 孽子 
+line:481     points: 9.1 name: 天生有罪 
+line:485     points: 9.1 name: 美丽新世界 
+line:492     points: 9.1 name: 先知 
+line:496     points: 9.1 name: 白夜行 
+line:497     points: 9.1 name: 有匪2 
+line:507     points: 9.1 name: 铳梦 
+line:509     points: 9.1 name: 杀死一只反舌鸟 
+line:510     points: 9.1 name: 罪与罚 
+line:518     points: 9.1 name: 银河帝国5：迈向基地 
+line:520     points: 9.1 name: 城南旧事 
+line:522     points: 9.1 name: 不能承受的生命之轻 
+line:532     points: 9.1 name: 超越时空 
+line:537     points: 9.1 name: Java编程思想 （第4版） 
+line:539     points: 9.1 name: 爱心树 
+line:541     points: 9.1 name: 射雕英雄传（全四册） 
+line:544     points: 9.1 name: 大明王朝1566 
+line:557     points: 9.1 name: 杜撰集 
+line:562     points: 9.1 name: 什么是数学 
+line:571     points: 9.1 name: 傲慢与偏见（英文本） 
+line:595     points: 9.1 name: 奥狄浦斯王 
+line:598     points: 9.1 name: 源泉 
+line:599     points: 9.1 name: 小狗钱钱 
+line:600     points: 9.1 name: 阿拉伯的劳伦斯 
+line:606     points: 9.1 name: 漩渦2 
+line:611     points: 9.1 name: 忧郁的热带 
+line:614     points: 9.1 name: 全本新注聊斋志异（全三册） 
+line:617     points: 9.1 name: 文心 
+line:624     points: 9.1 name: 建筑师 
+line:627     points: 9.1 name: 史蒂夫·乔布斯传（修订版） 
+line:644     points: 9.1 name: 怦然心动 
+line:647     points: 9.1 name: 唐宋词十七讲 
+line:651     points: 9.1 name: 经济学原理（第4版） 
+line:653     points: 9.1 name: Call Me by Your Name 
+line:654     points: 9.1 name: 人间词话 
+line:656     points: 9.1 name: 打开一颗心 
+line:664     points: 9.1 name: 深夜食堂 08 
+line:665     points: 9.1 name: Python编程 
+line:666     points: 9.1 name: 加缪手记 
+line:674     points: 9.1 name: 楚辞 
+line:677     points: 9.1 name: 羊道·前山夏牧场 
+line:678     points: 9.1 name: Call Me by Your Name 
+line:679     points: 9.1 name: 鸟哥的Linux私房菜 
+line:682     points: 9.1 name: 银河英雄传说VOL.1 黎明篇 
+line:690     points: 9.1 name: 传统十论 
+line:700     points: 9.1 name: 约翰·克利斯朵夫（共四册） 
+line:701     points: 9.1 name: 城南旧事 
+line:705     points: 9.1 name: 不成问题的问题 
+line:707     points: 9.1 name: 羊道·深山夏牧场 
+line:711     points: 9.1 name: 傲慢与偏见 
+line:712     points: 9.1 name: 金蔷薇 
+line:716     points: 9.1 name: 坂本ですが? 1 
+line:719     points: 9.1 name: 传奇(上下) 
+line:722     points: 9.1 name: 百年孤独 
+line:730     points: 9.1 name: 大淖记事 
+line:732     points: 9.1 name: 婆娑罗 
+line:733     points: 9.1 name: 斯·茨威格中短篇小说选 
+line:742     points: 9.1 name: 永远永远爱你 
+line:748     points: 9.1 name: 淘氣小親親01 
+line:750     points: 9.1 name: 你真好 
+line:751     points: 9.1 name: 追忆似水年华（上下册） 
+line:752     points: 9.1 name: 子猫絮语 
+line:758     points: 9.1 name: 傲慢与偏见 
+line:770     points: 9.1 name: 春雪 
+line:775     points: 9.1 name: 深夜食堂 09 
+line:778     points: 9.1 name: 吉祥纹莲花楼终篇之青龙·白虎 
+line:780     points: 9.1 name: 黄金时代 白银时代 
+line:791     points: 9.1 name: 朋友刀刀 
+line:802     points: 9.1 name: 深夜食堂 10 
+line:803     points: 9.1 name: 金锁记 
+line:804     points: 9.1 name: 清明上河图密码6 
+line:806     points: 9.1 name: 万历十五年 
+line:809     points: 9.1 name: 顾准文集 
+line:810     points: 9.1 name: 射雕英雄传（全4册） 
+line:812     points: 9.1 name: 北方的空地 
+line:815     points: 9.1 name: 牡丹亭 
+line:816     points: 9.1 name: 成功者的肖像 
+line:827     points: 9.1 name: 肖申克的救赎 
+line:838     points: 9.1 name: 王小波全集（第六卷） 
+line:840     points: 9.1 name: 亲爱的提奥 
+line:841     points: 9.1 name: 死屋手记 
+line:843     points: 9.1 name: 有呀有呀书店 
+line:844     points: 9.1 name: 受戒 
+line:845     points: 9.1 name: 给一个青年诗人的十封信 
+line:850     points: 9.1 name: 夜航西飞 
+line:853     points: 9.1 name: 沈从文的后半生 
+line:854     points: 9.1 name: 鼠疫 
+line:863     points: 9.1 name: 手绢上的花田 
+line:864     points: 9.1 name: 深夜食堂 07 
+line:866     points: 9.1 name: 期货市场技术分析 
+line:872     points: 9.1 name: 东京梦华录 
+line:883     points: 9.1 name: 叔本华思想随笔 
+line:885     points: 9.1 name: 百鬼夜行抄1 [東立] 
+line:888     points: 9.1 name: 公正 
+line:895     points: 9.1 name: 机器人短篇全集 
+line:896     points: 9.1 name: 忧郁的热带 
+line:905     points: 9.1 name: 万物刹那又永恒 
+line:906     points: 9.1 name: 蝙蝠侠：第一年 
+line:910     points: 9.1 name: 子不語 2 
+line:913     points: 9.1 name: 时间简史 
+line:925     points: 9.1 name: 城南旧事 
+line:926     points: 9.1 name: 西线无战事 
+line:934     points: 9.1 name: 易经 
+line:936     points: 9.1 name: 社会学的想象力 
+line:947     points: 9.1 name: 遍地风流 
+line:948     points: 9.1 name: 公正 
+line:951     points: 9.1 name: 中国少年儿童百科全书 
+line:953     points: 9.1 name: 平凡的世界(全三册) 
+line:966     points: 9.1 name: 编程珠玑 
+line:969     points: 9.1 name: 加缪文集 
+line:970     points: 9.1 name: 风沙星辰 
+line:975     points: 9.1 name: 罗马人的故事（礼品装，全15册） 
+line:976     points: 9.1 name: 尤利西斯 
+line:978     points: 9.1 name: 平凡的世界 
+line:982     points: 9.1 name: 深夜食堂 08 
+line:996     points: 9.1 name: 平凡的世界 
+line:997     points: 9.1 name: 我是霸王龙 
+line:1002     points: 9.1 name: 世说新语 
+line:1003     points: 9.1 name: 皮皮鲁和罐头小人 
+line:1008     points: 9.1 name: 花香小镇 
+line:1018     points: 9.1 name: 王小波全集（第一卷 杂文） 
+line:1019     points: 9.1 name: 中国古典园林分析 
+line:1021     points: 9.1 name: 美しいこと 上 
+line:1032     points: 9.1 name: Fate/Zero Vol.1 [第四次圣杯战争秘话] 
+line:1036     points: 9.1 name: 明朝那些事兒 參 
+line:1039     points: 9.1 name: 局外人 鼠疫 
+line:1043     points: 9.1 name: 傲慢与偏见 
+line:1045     points: 9.1 name: 中国史纲 
+line:1046     points: 9.1 name: 苏格拉底的申辩 
+line:1049     points: 9.1 name: 人性的枷锁 
+line:1050     points: 9.1 name: 经济学原理（第4版） 
+line:1053     points: 9.1 name: 双城记 
+line:1060     points: 9.1 name: 孩子：挑战 
+line:1074     points: 9.1 name: 普通语言学教程 
+line:1090     points: 9.1 name: 骨の音 
+line:1092     points: 9.1 name: C Primer Plus 
+line:1093     points: 9.1 name: 快乐王子 
+line:1100     points: 9.1 name: JavaScript语言精粹 
+line:1119     points: 9.1 name: 纪伯伦诗集 
+line:1121     points: 9.1 name: V字仇杀队 
+line:1125     points: 9.1 name: 战国策 
+line:1126     points: 9.1 name: 我，机器人 
+line:1130     points: 9.1 name: 中国小说史略 
+line:1135     points: 9.1 name: 历史研究 
+line:1137     points: 9.1 name: 经济学 
+line:1138     points: 9.1 name: 沙与沫 
+line:1140     points: 9.1 name: 顾城哲思录 
+line:1141     points: 9.1 name: 小说机杼 
+line:1147     points: 9.1 name: 我要做好孩子 
+line:1156     points: 9.1 name: 創造發明的思路 
+line:1157     points: 9.1 name: 人间草木 
+line:1158     points: 9.1 name: 白夜行（上） 
+line:1159     points: 9.1 name: 天才的编辑 
+line:1160     points: 9.1 name: 地图（人文版） 
+line:1163     points: 9.1 name: LIAR.GAMEⅠ 
+line:1164     points: 9.1 name: 城南旧事 
+line:1176     points: 9.1 name: 霍比特人 
+line:1177     points: 9.1 name: 现代性与大屠杀 
+line:1178     points: 9.1 name: 夏宇詩集／腹語術 
+line:1179     points: 9.1 name: 北極熊 café 
+line:1180     points: 9.1 name: 猫城小事 
+line:1184     points: 9.1 name: 黑猫侦探 2：极寒之国 
+line:1189     points: 9.1 name: 梵高传 
+line:1195     points: 9.1 name: 老子 
+line:1197     points: 9.1 name: 彼得·林奇的成功投资 
+line:1199     points: 9.1 name: 嫌疑犯X的獻身 
+line:1208     points: 9.1 name: 月亮与六便士 
+line:1210     points: 9.1 name: 我想去看海 
+line:1212     points: 9.1 name: Effective java 中文版（第2版） 
+line:1213     points: 9.1 name: 呐喊 
+line:1218     points: 9.1 name: 日出処の天子 1 
+line:1219     points: 9.1 name: 夜行记 
+line:1223     points: 9.1 name: 美しいこと 下 
+line:1224     points: 9.1 name: 魔灯 
+line:1225     points: 9.1 name: 论犯罪与刑罚 
+line:1229     points: 9.1 name: 蠟筆小新1 
+line:1237     points: 9.1 name: 致未来的诗人 
+line:1256     points: 9.1 name: 革命之路 
+line:1263     points: 9.1 name: 第三帝国的兴亡（全三册） 
+line:1264     points: 9.1 name: 毛泽东选集 第四卷 
+line:1270     points: 9.1 name: 女性主义 
+line:1279     points: 9.1 name: 豆汁记 
+line:1284     points: 9.1 name: 疯癫与文明 
+line:1289     points: 9.1 name: 古代汉语（第二册） 
+line:1291     points: 9.1 name: 科学革命的结构 
+line:1295     points: 9.1 name: Harry Potter and the Half-Blood Prince 
+line:1296     points: 9.1 name: 游隼 
+line:1298     points: 9.1 name: The Ph.D. Grind 
+line:1301     points: 9.1 name: 围城 
+line:1303     points: 9.1 name: 爆漫王。(01) 
+line:1312     points: 9.1 name: ダブルミンツ 
+line:1315     points: 9.1 name: 东周列国志 
+line:1320     points: 9.1 name: The Picture of Dorian Gray 
+line:1323     points: 9.1 name: 给心理治疗师的礼物 
+line:1332     points: 9.1 name: 鹿鼎记 
+line:1333     points: 9.1 name: 超长篇机器猫哆啦A梦1 
+line:1338     points: 9.1 name: 给青年诗人的信 
+line:1341     points: 9.1 name: 神雕侠侣（全四册） 
+line:1343     points: 9.1 name: DOOM启世录 
+line:1349     points: 9.1 name: 深度探索C++对象模型 
+line:1350     points: 9.1 name: 听音乐（插图第6版） 
+line:1378     points: 9.1 name: 地球上最孤单的动物 
+line:1379     points: 9.1 name: Blame! 1 
+line:1380     points: 9.1 name: 记忆与印象 
+line:1385     points: 9.1 name: 以色列 
+line:1387     points: 9.1 name: 海浪 
+line:1391     points: 9.1 name: 动物农庄 
+line:1396     points: 9.1 name: 阿狸·梦之城堡 
+line:1397     points: 9.1 name: 七夜 
+line:1400     points: 9.1 name: 十二國記：月之影·影之海（下） 
+line:1401     points: 9.1 name: 悲惨世界 
+line:1406     points: 9.1 name: 明朝那些事兒 貳 
+line:1421     points: 9.1 name: On Writing Well 
+line:1423     points: 9.1 name: Effective C++中文版 
+line:1424     points: 9.1 name: 寄生獸 (完全版) (Vol. 2) 
+line:1425     points: 9.1 name: 天国降临 
+line:1427     points: 9.1 name: コペルニクスの呼吸1 
+line:1430     points: 9.1 name: 英雄志·第二部（全三册） 
+line:1431     points: 9.1 name: 绿山墙的安妮 
+line:1433     points: 9.1 name: 罪与罚 
+line:1436     points: 9.1 name: 静静的顿河 
+line:1437     points: 9.1 name: 世界一初恋 ~小野寺律の場合2~ 
+line:1441     points: 9.1 name: 毛毛 
+line:1449     points: 9.1 name: 城南旧事 
+line:1450     points: 9.1 name: 直到花豆煮熟 
+line:1467     points: 9.1 name: 天龍八部 
+line:1475     points: 9.1 name: 危机与重构 
+line:1478     points: 9.1 name: 非理性的人 
+line:1479     points: 9.1 name: 野草 
+line:1481     points: 9.1 name: 寄生獸 (完全版) (Vol. 3) 
+line:1482     points: 9.1 name: 韦伯作品集Ⅻ:新教伦理与资本主义精神 
+line:1487     points: 9.1 name: 鹿鼎记 
+line:1489     points: 9.1 name: 论持久战 
+line:1491     points: 9.1 name: 傲慢与偏见 
+line:1492     points: 9.1 name: 月亮和六便士 
+line:1495     points: 9.1 name: Country Driving 
+line:1496     points: 9.1 name: 围城 
+line:1498     points: 9.1 name: 一间只属于自己的房间 
+line:1499     points: 9.1 name: 柴王(06) 
+line:1506     points: 9.1 name: 中国文化要义 
+line:1509     points: 9.1 name: 我的爸爸叫焦尼 
+line:1510     points: 9.1 name: 愤怒的葡萄 
+line:1518     points: 9.1 name: 人间词话 
+line:1519     points: 9.1 name: 備忘錄 
+line:1524     points: 9.1 name: 政治学 
+line:1525     points: 9.1 name: 心若菩提 
+line:1532     points: 9.1 name: 给青年的十二封信 
+line:1538     points: 9.1 name: 特朗斯特罗姆诗歌全集 
+line:1543     points: 9.1 name: 叶之震颤 
+line:1544     points: 9.1 name: 寄生獸 (完全版) (Vol. 4) 
+line:1549     points: 9.1 name: 中国古典诗词感发 
+line:1555     points: 9.1 name: 乡土中国 
+line:1559     points: 9.1 name: 罗马元老院与人民 
+line:1569     points: 9.1 name: 我这一辈子 
+line:1570     points: 9.1 name: 证券分析 
+line:1571     points: 9.1 name: 霍乱时期的爱情 
+line:1572     points: 9.1 name: 罪与罚 
+line:1574     points: 9.1 name: Animal Farm 
+line:1575     points: 9.1 name: 猎魔人5：火之洗礼 
+line:1580     points: 9.1 name: 麻辣教師GTO(01) 
+line:1584     points: 9.1 name: 我的精神家园 
+line:1586     points: 9.1 name: 是，大臣 
+line:1589     points: 9.1 name: 判断力批判 
+line:1598     points: 9.1 name: 和合本紅字版聖經 
+line:1603     points: 9.1 name: 中国古代建筑史 
+line:1604     points: 9.1 name: 现实与欲望 
+line:1620     points: 9.1 name: 个人形成论 
+line:1621     points: 9.1 name: 史铁生散文 
+line:1624     points: 9.1 name: 铁浆 
+line:1629     points: 9.1 name: 故事新编 
+line:1630     points: 9.1 name: Pro Git 
+line:1632     points: 9.1 name: 福尔摩斯探案全集2 
+line:1633     points: 9.1 name: 长歌行10 
+line:1635     points: 9.1 name: 涼宮春日的消失 
+line:1636     points: 9.1 name: 白鹿原 
+line:1638     points: 9.1 name: 空と原 
+line:1642     points: 9.1 name: 迈向神境的作家（下） 
+line:1644     points: 9.1 name: 平如美棠 
+line:1647     points: 9.1 name: 傲慢与偏见 
+line:1650     points: 9.1 name: 拜厄钢琴基本教程 
+line:1652     points: 9.1 name: 麦兜·尿水遥遥 
+line:1654     points: 9.1 name: 麦兜·尿水遥遥 
+line:1656     points: 9.1 name: Fingersmith 
+line:1660     points: 9.1 name: 自由秩序原理 
+line:1662     points: 9.1 name: 约翰·克里斯托夫 
+line:1663     points: 9.1 name: 十二國記：東之海神·西之滄海 
+line:1665     points: 9.1 name: 课时达标练与测:数学(1年级)(下)(配北师) 
+line:1666     points: 9.1 name: 苏菲的世界 
+line:1668     points: 9.1 name: The Little World of Liz Climo 
+line:1669     points: 9.1 name: 顾城的诗顾城的画 
+line:1670     points: 9.1 name: 古代汉语（第三册） 
+line:1671     points: 9.1 name: 中国哲学简史 
+line:1673     points: 9.1 name: The Miraculous Journey of Edward Tulane 
+line:1674     points: 9.1 name: 冬牧场 
+line:1675     points: 9.1 name: 肖申克的救赎 
+line:1676     points: 9.1 name: 加西亚·马尔克斯中短篇小说集 
+line:1681     points: 9.1 name: 浮生六记 
+line:1682     points: 9.1 name: 不能承受的生命之轻 
+line:1686     points: 9.1 name: 绿野仙踪 
+line:1688     points: 9.1 name: 一日谈 
+line:1691     points: 9.1 name: 马可瓦尔多 
+line:1693     points: 9.1 name: 向着明亮那方 
+line:1694     points: 9.1 name: 网络是怎样连接的 
+line:1695     points: 9.1 name: 钢琴师 
+line:1696     points: 9.1 name: 超长篇机器猫哆啦A梦8 
+line:1698     points: 9.1 name: 邋遢大王奇遇记 
+line:1701     points: 9.1 name: 小王子 
+line:1704     points: 9.1 name: 建筑：形式、空间和秩序 
+line:1705     points: 9.1 name: 坟 
+line:1710     points: 9.1 name: 古代汉语（第四册） 
+line:1712     points: 9.1 name: 叶嘉莹说杜甫诗 
+line:1713     points: 9.1 name: 踮脚张望4 
+line:1714     points: 9.1 name: The Unbearable Lightness of Being 
+line:1715     points: 9.1 name: 白鹿原 
+line:10     points: 9.2 name: 百年孤独 
+line:13     points: 9.2 name: 三体Ⅲ 
+line:14     points: 9.2 name: 房思琪的初恋乐园 
+line:26     points: 9.2 name: 福尔摩斯探案全集（上中下） 
+line:28     points: 9.2 name: 动物农场 
+line:29     points: 9.2 name: 安徒生童话故事集 
+line:33     points: 9.2 name: 撒哈拉的故事 
+line:34     points: 9.2 name: 杀死一只知更鸟 
+line:52     points: 9.2 name: 白鹿原 
+line:54     points: 9.2 name: 中国历代政治得失 
+line:59     points: 9.2 name: 父与子全集 
+line:61     points: 9.2 name: 乡土中国 
+line:71     points: 9.2 name: 邓小平时代 
+line:78     points: 9.2 name: 夹边沟记事 
+line:87     points: 9.2 name: 围城 
+line:91     points: 9.2 name: 上帝掷骰子吗 
+line:92     points: 9.2 name: 明朝那些事儿 
+line:103     points: 9.2 name: 我与地坛 
+line:106     points: 9.2 name: 罗杰疑案 
+line:118     points: 9.2 name: 人生的智慧 
+line:121     points: 9.2 name: 美的历程 
+line:124     points: 9.2 name: 滚蛋吧!肿瘤君 
+line:129     points: 9.2 name: 子不语3 
+line:150     points: 9.2 name: 基地 
+line:152     points: 9.2 name: 全球通史(上) 
+line:158     points: 9.2 name: 小王子 
+line:162     points: 9.2 name: 围城 
+line:163     points: 9.2 name: 基督山伯爵（上下册） 
+line:182     points: 9.2 name: 故事 
+line:187     points: 9.2 name: 那不勒斯故事四部曲 
+line:188     points: 9.2 name: 昨日的世界 
+line:190     points: 9.2 name: 快乐王子 
+line:193     points: 9.2 name: 安娜·卡列尼娜 
+line:194     points: 9.2 name: 冰与火之歌·卷四·群鸦的盛宴（全两册） 
+line:202     points: 9.2 name: 飘（全二册） 
+line:212     points: 9.2 name: 渴望生活 
+line:215     points: 9.2 name: 海子诗全集 
+line:218     points: 9.2 name: 博尔赫斯小说集 
+line:220     points: 9.2 name: 棋王·树王·孩子王 
+line:221     points: 9.2 name: 全球通史(下) 
+line:229     points: 9.2 name: 小王子 
+line:232     points: 9.2 name: 人性的枷锁 
+line:234     points: 9.2 name: 蜂蜜與四葉草 1 
+line:236     points: 9.2 name: 西游记 
+line:239     points: 9.2 name: 一个叫欧维的男人决定去死 
+line:240     points: 9.2 name: 2001：太空漫游 
+line:243     points: 9.2 name: 故事新编 
+line:245     points: 9.2 name: 小王子 
+line:270     points: 9.2 name: Hunter X Hunter 
+line:271     points: 9.2 name: 新华字典（1998年修订本） 
+line:274     points: 9.2 name: 论美国的民主 
+line:283     points: 9.2 name: 基地与帝国 
+line:284     points: 9.2 name: 蟲師 (1) アフタヌーンKC (255) 
+line:286     points: 9.2 name: 活着 
+line:299     points: 9.2 name: 上帝掷骰子吗？ 
+line:305     points: 9.2 name: 银河帝国3：第二基地 
+line:307     points: 9.2 name: 规训与惩罚 
+line:311     points: 9.2 name: 三毛作品集 
+line:327     points: 9.2 name: 故事 
+line:329     points: 9.2 name: 同級生 
+line:342     points: 9.2 name: 银河英雄传说 
+line:343     points: 9.2 name: 动物农场 
+line:355     points: 9.2 name: 罗生门 
+line:358     points: 9.2 name: 妖怪連絡簿 1 
+line:372     points: 9.2 name: 乡土中国 
+line:377     points: 9.2 name: 中国国家治理的制度逻辑 
+line:398     points: 9.2 name: 中国少年儿童百科全书 
+line:400     points: 9.2 name: 李光耀观天下 
+line:406     points: 9.2 name: 少年凯歌 
+line:407     points: 9.2 name: 地下室手记 
+line:411     points: 9.2 name: 深夜食堂 01 
+line:426     points: 9.2 name: 逃避自由 
+line:427     points: 9.2 name: Pride and Prejudice 
+line:432     points: 9.2 name: 基督山伯爵（上下） 
+line:438     points: 9.2 name: 茶馆 
+line:440     points: 9.2 name: 奥古斯都 
+line:441     points: 9.2 name: 追忆似水年华 
+line:443     points: 9.2 name: C++ Primer 中文版（第 4 版） 
+line:445     points: 9.2 name: 西游记（全三册） 
+line:452     points: 9.2 name: 深夜食堂 06 
+line:457     points: 9.2 name: The Little Prince 
+line:463     points: 9.2 name: 乡土中国 生育制度 
+line:468     points: 9.2 name: 岁朝清供 
+line:470     points: 9.2 name: 上帝掷骰子吗? 
+line:477     points: 9.2 name: 纳尔齐斯与歌尔德蒙 
+line:490     points: 9.2 name: 围城 
+line:494     points: 9.2 name: 美国纽约摄影学院摄影教材（上册） 
+line:524     points: 9.2 name: 改变心理学的40项研究 
+line:525     points: 9.2 name: 深夜食堂 07 
+line:529     points: 9.2 name: Happy.Birth.Day 
+line:540     points: 9.2 name: 深夜食堂 05 
+line:542     points: 9.2 name: 奈良美智横滨手稿 
+line:547     points: 9.2 name: 大明宫词 
+line:548     points: 9.2 name: 罗马人的故事2 
+line:550     points: 9.2 name: 金刚葫芦娃 
+line:555     points: 9.2 name: 编码 
+line:560     points: 9.2 name: 哈姆雷特 
+line:561     points: 9.2 name: 万物既聪慧又奇妙 
+line:563     points: 9.2 name: 悲惨世界（上下） 
+line:564     points: 9.2 name: 正红旗下 
+line:574     points: 9.2 name: 我与地坛 
+line:577     points: 9.2 name: Harry Potter And The Chamber Of Secrets 
+line:581     points: 9.2 name: 浪潮之巅（第2版）（套装上下册） 
+line:583     points: 9.2 name: 大英博物馆世界简史（全3册） 
+line:584     points: 9.2 name: Head First 设计模式（中文版） 
+line:590     points: 9.2 name: 亮剑 
+line:592     points: 9.2 name: 草房子 
+line:603     points: 9.2 name: 神秘岛（全三册） 
+line:612     points: 9.2 name: 漩渦3 
+line:613     points: 9.2 name: 叫魂 
+line:615     points: 9.2 name: 三毛流浪记（全集） 
+line:618     points: 9.2 name: 古代汉语（第一册） 
+line:625     points: 9.2 name: 南明史 
+line:629     points: 9.2 name: 谈美 
+line:631     points: 9.2 name: 虚构集 
+line:640     points: 9.2 name: 现实不似你所见 
+line:643     points: 9.2 name: 三体2 
+line:650     points: 9.2 name: 资本论（第一卷） 
+line:659     points: 9.2 name: 汪曾祺散文 
+line:673     points: 9.2 name: 我在伊朗长大1 
+line:688     points: 9.2 name: 金刚经 心经 坛经 
+line:694     points: 9.2 name: 中国少年儿童百科全书 
+line:696     points: 9.2 name: 中国哲学简史 
+line:697     points: 9.2 name: 金瓶梅 
+line:706     points: 9.2 name: 荷西 我爱你 
+line:708     points: 9.2 name: 社会契约论 
+line:713     points: 9.2 name: 故事 
+line:717     points: 9.2 name: 逻辑哲学论 
+line:724     points: 9.2 name: 许三观卖血记 
+line:728     points: 9.2 name: 慢煮生活 
+line:731     points: 9.2 name: 新千年文学备忘录 
+line:744     points: 9.2 name: 教父 
+line:746     points: 9.2 name: 学术与政治 
+line:749     points: 9.2 name: The Elements of Style 
+line:761     points: 9.2 name: One Billion Customers 
+line:764     points: 9.2 name: 论语译注 
+line:768     points: 9.2 name: 施瓦辛格健身全书 
+line:777     points: 9.2 name: 沉默的大多数 
+line:781     points: 9.2 name: 深夜食堂 03 
+line:787     points: 9.2 name: 中国少年儿童百科全书 
+line:788     points: 9.2 name: 空之境界（上） 
+line:789     points: 9.2 name: 江村经济 
+line:790     points: 9.2 name: 毛毛 
+line:793     points: 9.2 name: 尼各马可伦理学 
+line:800     points: 9.2 name: 古拉格：一部历史 
+line:801     points: 9.2 name: 华夏意匠 
+line:805     points: 9.2 name: 舒克和贝塔历险记 
+line:813     points: 9.2 name: 追寻逝去的时光·第一卷：去斯万家那边 
+line:826     points: 9.2 name: 老子注译及评介 
+line:830     points: 9.2 name: 费马大定理 
+line:831     points: 9.2 name: 飲水詞箋校 
+line:832     points: 9.2 name: 返璞归真 
+line:836     points: 9.2 name: To Kill a Mockingbird 
+line:842     points: 9.2 name: 霸王别姬 
+line:851     points: 9.2 name: TCP/IP详解 卷1：协议 
+line:852     points: 9.2 name: 查拉图斯特拉如是说 
+line:855     points: 9.2 name: 悲惨世界（上中下） 
+line:856     points: 9.2 name: 基督山伯爵 
+line:862     points: 9.2 name: 安娜·卡列尼娜 
+line:865     points: 9.2 name: 伊凡·伊里奇之死 
+line:875     points: 9.2 name: 银河英雄传说VOL.2 野望篇 
+line:880     points: 9.2 name: 基度山伯爵（上下） 
+line:886     points: 9.2 name: 第二性（合卷本） 
+line:887     points: 9.2 name: River Town 
+line:894     points: 9.2 name: 政治学通识 
+line:900     points: 9.2 name: 皮皮鲁和鲁西西全传 
+line:907     points: 9.2 name: 阿莱夫 
+line:911     points: 9.2 name: 奥克诺斯 
+line:912     points: 9.2 name: 海蒂 
+line:914     points: 9.2 name: C专家编程 
+line:916     points: 9.2 name: 动物农场 
+line:918     points: 9.2 name: 小王子 
+line:919     points: 9.2 name: 党员、党权与党争 
+line:924     points: 9.2 name: 呼兰河传 
+line:930     points: 9.2 name: 中国法律与中国社会 
+line:932     points: 9.2 name: 天堂之吻 
+line:938     points: 9.2 name: 说文解字 
+line:939     points: 9.2 name: 说文解字 
+line:943     points: 9.2 name: 格林童话 
+line:957     points: 9.2 name: 关山夺路 
+line:958     points: 9.2 name: 皮皮鲁和鲁西西 
+line:959     points: 9.2 name: 娜塔莎之舞 
+line:963     points: 9.2 name: 永恒的时光之旅 
+line:964     points: 9.2 name: 基督山伯爵（上、下） 
+line:965     points: 9.2 name: 古拉格群岛（上中下） 
+line:971     points: 9.2 name: 罗马人的故事5 
+line:972     points: 9.2 name: 东晋门阀政治 
+line:973     points: 9.2 name: 深夜食堂 04 
+line:979     points: 9.2 name: 李鸿章传 
+line:983     points: 9.2 name: 中国哲学简史 
+line:987     points: 9.2 name: 中国通史 
+line:990     points: 9.2 name: 所罗门王的指环 
+line:1001     points: 9.2 name: 所罗门王的指环 
+line:1006     points: 9.2 name: 夜莺与玫瑰 
+line:1007     points: 9.2 name: 骆驼祥子 
+line:1012     points: 9.2 name: 我在伊朗长大3 
+line:1013     points: 9.2 name: 哈利·波特与魔法石（纪念版） 
+line:1022     points: 9.2 name: 史努比黄金50年 
+line:1023     points: 9.2 name: 丰饶之海（上下） 
+line:1030     points: 9.2 name: 鼠族（一、二部） 
+line:1033     points: 9.2 name: Harry Potter and the Deathly Hallows 
+line:1035     points: 9.2 name: 银河英雄传说VOL.3 雌伏篇 
+line:1052     points: 9.2 name: 黄帝内经 
+line:1062     points: 9.2 name: 我在伊朗长大4 
+line:1065     points: 9.2 name: 女神的圣斗士 
+line:1066     points: 9.2 name: 浪漫的逃亡 
+line:1075     points: 9.2 name: 思考少年1 
+line:1077     points: 9.2 name: 三毛全集 
+line:1104     points: 9.2 name: Fate/Zero Vol.2 [王者们的狂宴] 
+line:1115     points: 9.2 name: 烙印勇士1 
+line:1122     points: 9.2 name: 熔炉 
+line:1132     points: 9.2 name: 平凡的世界（全本） 
+line:1133     points: 9.2 name: 人间词话 
+line:1139     points: 9.2 name: あなたのためならどこまでも 
+line:1145     points: 9.2 name: 银河英雄传说VOL.4：策谋篇 
+line:1150     points: 9.2 name: 切尔诺贝利之春 
+line:1154     points: 9.2 name: 动物农庄 
+line:1162     points: 9.2 name: 南京大屠杀 
+line:1169     points: 9.2 name: ONE-PUNCH MAN 一拳超人 01 
+line:1186     points: 9.2 name: 精灵宝钻 
+line:1187     points: 9.2 name: 黄昏海的故事 
+line:1191     points: 9.2 name: 南怀瑾选集（第一卷） 
+line:1196     points: 9.2 name: 与社会学同游 
+line:1198     points: 9.2 name: 窮鼠はチーズの夢を見る 
+line:1201     points: 9.2 name: 美国讲稿 
+line:1204     points: 9.2 name: 安徒生童话 
+line:1227     points: 9.2 name: 昨日的世界 
+line:1228     points: 9.2 name: ROUGH 
+line:1231     points: 9.2 name: 基督山伯爵 
+line:1232     points: 9.2 name: 佛教的见地与修道 
+line:1240     points: 9.2 name: 魔戒 
+line:1241     points: 9.2 name: 白夜行（下） 
+line:1243     points: 9.2 name: 浪潮之巅（第三版）（上下册） 
+line:1252     points: 9.2 name: 论犯罪与刑罚 
+line:1253     points: 9.2 name: 传奇 
+line:1259     points: 9.2 name: 窗边的小豆豆 
+line:1265     points: 9.2 name: Harry Potter and the Goblet of Fire 
+line:1266     points: 9.2 name: 苍井优 - Travel Sand 
+line:1269     points: 9.2 name: 银河英雄传说VOL.6 飞翔篇 
+line:1271     points: 9.2 name: 柏拉图的《会饮》 
+line:1277     points: 9.2 name: BEASTARS 1 
+line:1278     points: 9.2 name: 鸟瞰古文明 
+line:1286     points: 9.2 name: 小艾，爸爸特别特别地想你！ 
+line:1300     points: 9.2 name: 小王子 
+line:1302     points: 9.2 name: 傲慢与偏见 
+line:1309     points: 9.2 name: 21世纪少年上 
+line:1317     points: 9.2 name: 1984 
+line:1318     points: 9.2 name: 博尔赫斯短篇小说集 
+line:1322     points: 9.2 name: 寄生獸 (完全版) (Vol. 8) 
+line:1325     points: 9.2 name: 大盗贼 
+line:1330     points: 9.2 name: 锦灰堆 
+line:1331     points: 9.2 name: 银孔雀 
+line:1335     points: 9.2 name: 古文观止 
+line:1336     points: 9.2 name: 射雕英雄传（套装共4册） 
+line:1337     points: 9.2 name: 银河英雄传说VOL.7 怒涛篇 
+line:1340     points: 9.2 name: “太空漫游”四部曲 
+line:1342     points: 9.2 name: 货币金融学 
+line:1344     points: 9.2 name: 治史三书 
+line:1348     points: 9.2 name: 追忆似水年华（全三册） 
+line:1352     points: 9.2 name: 老子今注今译 
+line:1357     points: 9.2 name: 活著 
+line:1358     points: 9.2 name: 正红旗下 
+line:1359     points: 9.2 name: 叔本华美学随笔 
+line:1363     points: 9.2 name: セブンデイズ 
+line:1367     points: 9.2 name: 约翰·克里斯朵夫 
+line:1368     points: 9.2 name: 鲁迅小说全集 
+line:1371     points: 9.2 name: 建构文化研究 
+line:1372     points: 9.2 name: Being Mortal 
+line:1376     points: 9.2 name: 悲剧的诞生 
+line:1405     points: 9.2 name: 中国景色 
+line:1415     points: 9.2 name: 撒哈拉的故事 
+line:1420     points: 9.2 name: 银河英雄传说（全10册） 
+line:1429     points: 9.2 name: 寄生獸 (完全版) (Vol. 6) 
+line:1432     points: 9.2 name: 金圣叹批评本水浒传 
+line:1434     points: 9.2 name: 哈利•波特(共6册) (精装) 
+line:1438     points: 9.2 name: 机器人短篇全集（上下） 
+line:1443     points: 9.2 name: Killing stalking: 1 杀戮跟踪 
+line:1455     points: 9.2 name: 超长篇机器猫哆啦A梦3 
+line:1456     points: 9.2 name: 名侦探柯南原画全集 
+line:1460     points: 9.2 name: 动物庄园 
+line:1464     points: 9.2 name: 加缪手记 
+line:1471     points: 9.2 name: 撤哈拉的故事 
+line:1474     points: 9.2 name: 路易·波拿巴的雾月十八日 
+line:1480     points: 9.2 name: PLUTO~冥王~01 
+line:1483     points: 9.2 name: 超长篇机器猫哆啦A梦9 
+line:1484     points: 9.2 name: 王小波全集（第六卷 中篇小说） 
+line:1486     points: 9.2 name: 先知 
+line:1490     points: 9.2 name: 乡土中国 
+line:1494     points: 9.2 name: 歷史之眼(01) 
+line:1497     points: 9.2 name: 玫瑰圣经 
+line:1500     points: 9.2 name: 长歌行 11 
+line:1502     points: 9.2 name: 组织社会学十讲 
+line:1512     points: 9.2 name: 一九八四 上来透口气 
+line:1520     points: 9.2 name: 明朝那些事儿(增补版)(套装共9册) 
+line:1526     points: 9.2 name: 追忆似水年华（第一卷） 
+line:1528     points: 9.2 name: 当尼采哭泣 
+line:1534     points: 9.2 name: 彷徨 
+line:1541     points: 9.2 name: 猎魔人6：雨燕之塔 
+line:1546     points: 9.2 name: 古龙作品全集（全53卷） 
+line:1548     points: 9.2 name: 超长篇机器猫哆啦A梦11 
+line:1552     points: 9.2 name: 量子物理史話 
+line:1553     points: 9.2 name: 偶像的黄昏 
+line:1556     points: 9.2 name: BASARA 15 
+line:1557     points: 9.2 name: 加德纳艺术通史 
+line:1558     points: 9.2 name: 春雪 
+line:1565     points: 9.2 name: 超长篇机器猫哆啦A梦12 
+line:1566     points: 9.2 name: 賭博默示錄(01) 
+line:1568     points: 9.2 name: 开放中的变迁 
+line:1576     points: 9.2 name: 超长篇机器猫哆啦A梦2 
+line:1577     points: 9.2 name: 月亮和六便士 
+line:1579     points: 9.2 name: 上学记 
+line:1581     points: 9.2 name: ノアの宇宙船―清水玲子傑作集 
+line:1582     points: 9.2 name: 寄生獸 (完全版) (Vol. 7) 
+line:1583     points: 9.2 name: 自由及其背叛 
+line:1585     points: 9.2 name: 社会与政治运动讲义 
+line:1587     points: 9.2 name: j的故事 
+line:1590     points: 9.2 name: 海底两万里 
+line:1591     points: 9.2 name: 2010：太空漫游 
+line:1592     points: 9.2 name: 审判 
+line:1594     points: 9.2 name: 张爱玲文集 
+line:1595     points: 9.2 name: 谈艺录 
+line:1597     points: 9.2 name: 饥饿艺术家 
+line:1605     points: 9.2 name: 蔡志忠古典漫画（全八册） 
+line:1609     points: 9.2 name: 超长篇机器猫哆啦A梦7 
+line:1613     points: 9.2 name: 世界一初恋 ~小野寺律の場合3~ 
+line:1614     points: 9.2 name: 象棋的故事 
+line:1619     points: 9.2 name: 超长篇机器猫哆啦A梦13 
+line:1623     points: 9.2 name: 麦兜·微小小说 
+line:1625     points: 9.2 name: 冰与火之歌·卷四·群鸦的盛宴（上） 
+line:1626     points: 9.2 name: 务虚笔记 
+line:1627     points: 9.2 name: 西线无战事 
+line:1631     points: 9.2 name: 顾随诗词讲记 
+line:1637     points: 9.2 name: 少年同盟 1 
+line:11     points: 9.3 name: 三体Ⅱ 
+line:15     points: 9.3 name: 飘 
+line:16     points: 9.3 name: 1984 
+line:19     points: 9.3 name: 三国演义（全二册） 
+line:45     points: 9.3 name: 围城 
+line:46     points: 9.3 name: 撒哈拉的故事 
+line:55     points: 9.3 name: 一九八四·动物农场 
+line:58     points: 9.3 name: 冰与火之歌（卷一） 
+line:60     points: 9.3 name: 一九八四 
+line:67     points: 9.3 name: 动物庄园 
+line:82     points: 9.3 name: 七龍珠 34 
+line:86     points: 9.3 name: 杀死一只知更鸟 
+line:95     points: 9.3 name: 活着 
+line:112     points: 9.3 name: 月刊少女野崎くん 01 
+line:113     points: 9.3 name: 四世同堂 
+line:115     points: 9.3 name: 撒哈拉的故事 
+line:132     points: 9.3 name: 受戒 
+line:136     points: 9.3 name: 撒哈拉的故事 
+line:138     points: 9.3 name: 國史大綱（上下） 
+line:141     points: 9.3 name: 猜猜我有多爱你 
+line:172     points: 9.3 name: 动物农场 
+line:174     points: 9.3 name: 毛泽东选集 第一卷 
+line:175     points: 9.3 name: 爷爷变成了幽灵 
+line:196     points: 9.3 name: 365夜故事（上下） 
+line:248     points: 9.3 name: 中国历代政治得失 
+line:253     points: 9.3 name: 现代汉语词典（修订本） 
+line:254     points: 9.3 name: 第二基地 
+line:257     points: 9.3 name: 中国哲学简史 
+line:264     points: 9.3 name: 乡土中国 
+line:287     points: 9.3 name: Animal Farm 
+line:291     points: 9.3 name: Level E 
+line:298     points: 9.3 name: Harry Potter and the Sorcerer&#39;s Stone 
+line:304     points: 9.3 name: 1984 
+line:320     points: 9.3 name: 大问题 
+line:332     points: 9.3 name: 算法导论（原书第2版） 
+line:335     points: 9.3 name: 经济学原理 
+line:339     points: 9.3 name: 三體 Ⅱ 
+line:341     points: 9.3 name: 悲惨世界 
+line:347     points: 9.3 name: 365夜 
+line:354     points: 9.3 name: 乡土中国 
+line:360     points: 9.3 name: 平凡的世界（全三册） 
+line:362     points: 9.3 name: 寻找家园 
+line:367     points: 9.3 name: 笑傲江湖（全四册） 
+line:368     points: 9.3 name: 我的团长我的团（上部） 
+line:378     points: 9.3 name: 上帝掷骰子吗 
+line:379     points: 9.3 name: 围城 
+line:381     points: 9.3 name: 蜡笔小新（全32册） 
+line:382     points: 9.3 name: 麒麟之与子同袍 
+line:383     points: 9.3 name: 陶庵梦忆 西湖梦寻 
+line:384     points: 9.3 name: 战争与和平（全四册） 
+line:385     points: 9.3 name: 会饮篇 
+line:387     points: 9.3 name: 卡尔维诺文集（第三卷） 
+line:389     points: 9.3 name: 第二性Ⅱ 
+line:391     points: 9.3 name: 三国志（全五册） 
+line:399     points: 9.3 name: 我与地坛 
+line:401     points: 9.3 name: 唐诗鉴赏辞典 
+line:414     points: 9.3 name: 动物农场 
+line:415     points: 9.3 name: 1984 
+line:425     points: 9.3 name: 浪漫的逃亡 
+line:439     points: 9.3 name: 代码大全（第2版） 
+line:447     points: 9.3 name: 论自由 
+line:472     points: 9.3 name: 被淹没和被拯救的 
+line:479     points: 9.3 name: 受戒 
+line:491     points: 9.3 name: 浪漫主义的根源 
+line:495     points: 9.3 name: Harry Potter and the Philosopher&#39;s Stone 
+line:500     points: 9.3 name: 小王子 
+line:501     points: 9.3 name: 罪与罚 
+line:508     points: 9.3 name: 阿莱夫 
+line:517     points: 9.3 name: 悲惨世界（全三册） 
+line:527     points: 9.3 name: 一九八四 
+line:538     points: 9.3 name: 笑傲江湖 
+line:543     points: 9.3 name: 地狱变 
+line:552     points: 9.3 name: 风与树的歌 
+line:554     points: 9.3 name: 基督山伯爵(上下) 
+line:559     points: 9.3 name: H2 好逑雙物語 32 
+line:572     points: 9.3 name: 2001：太空漫游 
+line:578     points: 9.3 name: 寻找家园（增订版） 
+line:580     points: 9.3 name: 认识电影：全彩插图第12版 
+line:585     points: 9.3 name: 教父 
+line:587     points: 9.3 name: 三国志 
+line:591     points: 9.3 name: 唐诗三百首 
+line:593     points: 9.3 name: 深夜食堂 02 
+line:601     points: 9.3 name: 外天楼 
+line:608     points: 9.3 name: 三国演义 
+line:623     points: 9.3 name: 一九八四 
+line:630     points: 9.3 name: 诗经 
+line:634     points: 9.3 name: 草房子 
+line:639     points: 9.3 name: 火鳳燎原 1 
+line:663     points: 9.3 name: 一九八四 
+line:681     points: 9.3 name: 毛泽东选集 第二卷 
+line:683     points: 9.3 name: JavaScript高级程序设计（第3版） 
+line:684     points: 9.3 name: 小王子（纯美珍藏绘本） 
+line:689     points: 9.3 name: 福尔摩斯探案全集（上中下） 
+line:691     points: 9.3 name: 故事新编 
+line:693     points: 9.3 name: 银河帝国12：机器人与帝国 
+line:698     points: 9.3 name: 蒋勋细说红楼梦 
+line:699     points: 9.3 name: Harry Potter and the Goblet of Fire 
+line:704     points: 9.3 name: 四書章句集注 
+line:709     points: 9.3 name: 传习录 
+line:710     points: 9.3 name: 百年孤独 
+line:715     points: 9.3 name: 为什么学生不喜欢上学? 
+line:725     points: 9.3 name: 木心作品八种 
+line:726     points: 9.3 name: 呐喊 
+line:734     points: 9.3 name: 三毛经典作品（上下） 
+line:735     points: 9.3 name: 加缪全集 （小说卷） 
+line:740     points: 9.3 name: 大明王朝1566 
+line:756     points: 9.3 name: Harry Potter and the Prisoner of Azkaban 
+line:759     points: 9.3 name: 变化社会中的政治秩序 
+line:762     points: 9.3 name: 汪曾祺小说经典 
+line:767     points: 9.3 name: 乡土中国 
+line:769     points: 9.3 name: 陆犯焉识 
+line:782     points: 9.3 name: 牛津高阶英汉双解词典(第四版) 
+line:799     points: 9.3 name: 南京浩劫 
+line:814     points: 9.3 name: 遥远的野玫瑰村 
+line:819     points: 9.3 name: 庄子今注今译（全三册） 
+line:820     points: 9.3 name: 恐怖宠物店(2) 
+line:835     points: 9.3 name: 大众传播理论 
+line:848     points: 9.3 name: PLUTO 001 
+line:857     points: 9.3 name: 生活与命运 
+line:861     points: 9.3 name: 一九八四 动物农场 
+line:867     points: 9.3 name: 舆论 
+line:868     points: 9.3 name: 古詩源 
+line:869     points: 9.3 name: 空之境界（下） 
+line:874     points: 9.3 name: 纳尔齐斯和歌尔德蒙 
+line:877     points: 9.3 name: 樱桃小丸子（全20册） 
+line:892     points: 9.3 name: 我在伊朗长大2 
+line:893     points: 9.3 name: 恐怖宠物店(3) 
+line:897     points: 9.3 name: 战争与和平（上下） 
+line:899     points: 9.3 name: 穿墙透壁 
+line:901     points: 9.3 name: 共产党宣言 
+line:917     points: 9.3 name: 郑渊洁童话全集(33卷) 
+line:920     points: 9.3 name: 白鹦鹉的森林 
+line:921     points: 9.3 name: 一九八四 
+line:923     points: 9.3 name: Ｊの総て　１ 
+line:927     points: 9.3 name: 聊斋志异 
+line:940     points: 9.3 name: 随风而来的玛丽阿姨 
+line:952     points: 9.3 name: 小王子 
+line:961     points: 9.3 name: 中国少年儿童百科全书（科学技术） 
+line:962     points: 9.3 name: 万物生光辉 
+line:967     points: 9.3 name: 恐怖宠物店(5) 
+line:977     points: 9.3 name: 游叙弗伦 苏格拉底的申辩 克力同 
+line:984     points: 9.3 name: 芥川龙之介全集 
+line:988     points: 9.3 name: 银河英雄传说-全十册 
+line:993     points: 9.3 name: 1984 
+line:998     points: 9.3 name: 鲁迅全集(1) 
+line:1010     points: 9.3 name: 冰与火之歌·卷二·列王的纷争（上） 
+line:1016     points: 9.3 name: Fate/Zero Vol.4 [炼狱之炎] 
+line:1037     points: 9.3 name: 哈利·波特与阿兹卡班囚徒 
+line:1054     points: 9.3 name: 银河英雄传说VOL.5 风云篇 
+line:1058     points: 9.3 name: 圣经 
+line:1064     points: 9.3 name: 经济学 
+line:1068     points: 9.3 name: 基度山恩仇记 
+line:1071     points: 9.3 name: 动物庄园 
+line:1079     points: 9.3 name: 撒哈拉的故事 
+line:1084     points: 9.3 name: 恐怖宠物店(4) 
+line:1085     points: 9.3 name: The Little Prince 
+line:1086     points: 9.3 name: Fate/Zero Vol.3 [凋零的战士们] 
+line:1089     points: 9.3 name: 海子诗全编 
+line:1094     points: 9.3 name: 小王子 
+line:1095     points: 9.3 name: 小王子 
+line:1112     points: 9.3 name: 万尼亚舅舅·三姊妹·樱桃园 
+line:1114     points: 9.3 name: 憂鬱な朝 (1) 
+line:1117     points: 9.3 name: 读 
+line:1127     points: 9.3 name: 1984 
+line:1131     points: 9.3 name: 樱桃的滋味 
+line:1143     points: 9.3 name: 詩經注析（全二冊） 
+line:1151     points: 9.3 name: 来自民间的叛逆 
+line:1152     points: 9.3 name: 恐怖寵物店(01) 
+line:1153     points: 9.3 name: 十二國記·圖南之翼 
+line:1167     points: 9.3 name: NANA (Vol. 13) 
+line:1171     points: 9.3 name: 编码的奥秘 
+line:1185     points: 9.3 name: 俎上の鯉は二度跳ねる 
+line:1188     points: 9.3 name: 卡利古拉 
+line:1190     points: 9.3 name: 古拉格群岛（上中下） 
+line:1192     points: 9.3 name: 勒·柯布西耶全集 
+line:1193     points: 9.3 name: 人生的智慧 
+line:1200     points: 9.3 name: 宠物小精灵特别篇（全7册） 
+line:1203     points: 9.3 name: 竹林中 
+line:1214     points: 9.3 name: 汉书（全十二册） 
+line:1217     points: 9.3 name: 语言与沉默 
+line:1221     points: 9.3 name: 群魔 
+line:1230     points: 9.3 name: 汪曾祺精选集 
+line:1239     points: 9.3 name: 冰与火之歌·卷五·魔龙的狂舞（上） 
+line:1242     points: 9.3 name: 银河英雄传说VOL.10 落日篇 
+line:1247     points: 9.3 name: 福尔摩斯探案集(五) 
+line:1248     points: 9.3 name: 基度山伯爵（全四册） 
+line:1249     points: 9.3 name: 被伤害与侮辱的人们 
+line:1251     points: 9.3 name: 心理学与生活（第19版） 
+line:1257     points: 9.3 name: 管锥编（全五册） 
+line:1262     points: 9.3 name: 鳴鳥不飛(01) 
+line:1268     points: 9.3 name: 超长篇机器猫哆啦A梦5 
+line:1273     points: 9.3 name: 蝙蝠侠：漫长的万圣节 
+line:1274     points: 9.3 name: 花は咲くか 1 
+line:1275     points: 9.3 name: 銀之匙 01 
+line:1280     points: 9.3 name: 银河英雄传说VOL.9 回天篇 
+line:1283     points: 9.3 name: 冰雪王国 
+line:1288     points: 9.3 name: 汇编语言（第2版） 
+line:1305     points: 9.3 name: 異獸魔都(01) 
+line:1314     points: 9.3 name: What Every Man Thinks about Apart from Sex 
+line:1316     points: 9.3 name: 叶嘉莹说汉魏六朝诗 
+line:1321     points: 9.3 name: 基督山伯爵（上下） 
+line:1324     points: 9.3 name: 文心雕龙注(上下) 
+line:1326     points: 9.3 name: 白鹿原 
+line:1329     points: 9.3 name: 超合金社团5 
+line:1347     points: 9.3 name: 国史大纲（上下册） 
+line:1351     points: 9.3 name: 山海經 
+line:1360     points: 9.3 name: 乡土中国 
+line:1366     points: 9.3 name: 图说敦煌二五四窟 
+line:1375     points: 9.3 name: 楚辞 
+line:1377     points: 9.3 name: 超长篇机器猫哆啦A梦14 
+line:1382     points: 9.3 name: 不一样的卡梅拉（1-10册） 
+line:1383     points: 9.3 name: 鲁迅杂文集 
+line:1384     points: 9.3 name: 动物农场 
+line:1388     points: 9.3 name: 那个黑色的下午 
+line:1389     points: 9.3 name: 与他共度61世 
+line:1390     points: 9.3 name: 老子道德经注校释 
+line:1393     points: 9.3 name: 十二國記：風之萬里·黎明之空（上） 
+line:1395     points: 9.3 name: 被人遗忘的人：中国精神病人生存状况 
+line:1398     points: 9.3 name: 深夜食堂 1 
+line:1399     points: 9.3 name: 新教伦理与资本主义精神 
+line:1407     points: 9.3 name: 风的旱冰鞋 
+line:1408     points: 9.3 name: KYLOOE·忧郁的蜻蜓 
+line:1412     points: 9.3 name: 田园诗与狂想曲 
+line:1413     points: 9.3 name: 平如美棠 
+line:1418     points: 9.3 name: Nana 
+line:1419     points: 9.3 name: 围城 / 人·兽·鬼 
+line:1422     points: 9.3 name: 历史三调 
+line:1426     points: 9.3 name: the climber 
+line:1428     points: 9.3 name: 百年孤独 
+line:1435     points: 9.3 name: 天人五衰 
+line:1439     points: 9.3 name: 四葉妹妹 
+line:1445     points: 9.3 name: 唐诗三百首 
+line:1452     points: 9.3 name: 约翰·克利斯朵夫（共四册） 
+line:1453     points: 9.3 name: 父与子 
+line:1459     points: 9.3 name: 空之境界（上下集合售） 
+line:1468     points: 9.3 name: 银河帝国3 ：第二基地 
+line:1476     points: 9.3 name: 超长篇机器猫哆啦A梦4 
+line:1477     points: 9.3 name: MAGIC 
+line:1485     points: 9.3 name: 算法导论（原书第3版） 
+line:1501     points: 9.3 name: 睡魔2：玩偶之家 
+line:1503     points: 9.3 name: 什么是数学 
+line:1505     points: 9.3 name: 动物农场 
+line:1514     points: 9.3 name: 坛经 
+line:1515     points: 9.3 name: 人性的枷锁 
+line:1516     points: 9.3 name: 我在伊朗长大 
+line:6     points: 9.4 name: 活着 
+line:42     points: 9.4 name: 三体全集 
+line:76     points: 9.4 name: 1984 
+line:89     points: 9.4 name: 诗经 
+line:96     points: 9.4 name: 卡拉马佐夫兄弟 
+line:99     points: 9.4 name: 一九八四 
+line:100     points: 9.4 name: 唐诗三百首 
+line:105     points: 9.4 name: 冰与火之歌（卷二） 
+line:116     points: 9.4 name: 道德经精义 
+line:122     points: 9.4 name: 动物农场 
+line:123     points: 9.4 name: 野草 
+line:133     points: 9.4 name: 三国演义 
+line:144     points: 9.4 name: 中国少年儿童百科全书（全四册） 
+line:156     points: 9.4 name: 经济学原理 
+line:157     points: 9.4 name: 小王子 
+line:167     points: 9.4 name: 孙子兵法 
+line:180     points: 9.4 name: 冰与火之歌·卷五·魔龙的狂舞（全三册） 
+line:181     points: 9.4 name: 活着 
+line:183     points: 9.4 name: 銀魂#01 
+line:191     points: 9.4 name: 庄子 
+line:199     points: 9.4 name: 悉达多 
+line:203     points: 9.4 name: 冰与火之歌·卷一·权力的游戏（全三册） 
+line:207     points: 9.4 name: 1984 
+line:214     points: 9.4 name: 萤火之森 
+line:230     points: 9.4 name: 1984 
+line:233     points: 9.4 name: 哥德尔、艾舍尔、巴赫 
+line:237     points: 9.4 name: 乱世佳人(上、下) 
+line:242     points: 9.4 name: 中國近代史（上冊） 
+line:249     points: 9.4 name: 我在伊朗长大 
+line:250     points: 9.4 name: 冰与火之歌（卷一） 
+line:262     points: 9.4 name: 福尔摩斯探案全集 
+line:272     points: 9.4 name: 中国历代政治得失 
+line:277     points: 9.4 name: 20世紀少年01 
+line:295     points: 9.4 name: 百年孤独 
+line:297     points: 9.4 name: 父与子 
+line:309     points: 9.4 name: MONSTER-怪物-02 
+line:313     points: 9.4 name: 王小波全集 
+line:324     points: 9.4 name: C程序设计语言 
+line:330     points: 9.4 name: 安徒生童话 
+line:334     points: 9.4 name: 浪客行 (Vol. 01) 
+line:337     points: 9.4 name: 东晋门阀政治 
+line:344     points: 9.4 name: 昨日的世界 
+line:345     points: 9.4 name: 塔希里亚故事集 
+line:346     points: 9.4 name: 亲密关系 
+line:365     points: 9.4 name: タッチ 完全版（1） 
+line:376     points: 9.4 name: 冰与火之歌·卷四·群鸦的盛宴（全三册） 
+line:388     points: 9.4 name: 我的团长我的团（下部） 
+line:390     points: 9.4 name: 福尔摩斯探案集（一） 
+line:394     points: 9.4 name: 資治通鑑（全二十冊） 
+line:397     points: 9.4 name: 我们的祖先 
+line:408     points: 9.4 name: 天朝的崩溃（修订版） 
+line:410     points: 9.4 name: Born a Crime 
+line:434     points: 9.4 name: 《父与子》全集 
+line:442     points: 9.4 name: 圣经 
+line:459     points: 9.4 name: MONSTER-怪物-01 
+line:461     points: 9.4 name: 人生的智慧 
+line:466     points: 9.4 name: 一九八四 
+line:486     points: 9.4 name: 天龙八部 
+line:505     points: 9.4 name: 宋词三百首 
+line:514     points: 9.4 name: 乱世佳人 
+line:519     points: 9.4 name: 飘 
+line:533     points: 9.4 name: 冰与火之歌（卷一） 
+line:558     points: 9.4 name: 1984 
+line:565     points: 9.4 name: 麒麟之生死與共 
+line:567     points: 9.4 name: 蝙蝠侠：黑暗骑士归来 
+line:569     points: 9.4 name: 飘（上下） 
+line:588     points: 9.4 name: 冒险小虎队 
+line:602     points: 9.4 name: 金刚经·心经 
+line:607     points: 9.4 name: 乱世佳人 
+line:609     points: 9.4 name: 精灵宝钻 
+line:622     points: 9.4 name: 蓝熊船长的13条半命 
+line:626     points: 9.4 name: 动物农场 
+line:632     points: 9.4 name: 社会心理学 
+line:636     points: 9.4 name: UNIX环境高级编程 
+line:657     points: 9.4 name: 呐喊 
+line:667     points: 9.4 name: 史记 
+line:669     points: 9.4 name: 麒麟之快意人生 
+line:672     points: 9.4 name: Word Power Made Easy 
+line:676     points: 9.4 name: 莎士比亚全集（全8册） 
+line:695     points: 9.4 name: 唐诗三百首 
+line:703     points: 9.4 name: 博尔赫斯全集 
+line:714     points: 9.4 name: 福尔摩斯探案全集 
+line:729     points: 9.4 name: 庄子 
+line:737     points: 9.4 name: 津巴多普通心理学 
+line:745     points: 9.4 name: 福尔摩斯探案集（三） 
+line:757     points: 9.4 name: 宋词鉴赏辞典 
+line:760     points: 9.4 name: 世界电影史（第二版） 
+line:779     points: 9.4 name: 卡拉马佐夫兄弟（上下） 
+line:794     points: 9.4 name: Harry Potter and the Prisoner of Azkaban 
+line:821     points: 9.4 name: C++ Primer 中文版（第 5 版） 
+line:823     points: 9.4 name: 笑傲江湖 
+line:837     points: 9.4 name: 20世紀少年18 
+line:846     points: 9.4 name: 福尔摩斯探案全集（全七册） 
+line:858     points: 9.4 name: 野草 
+line:859     points: 9.4 name: 小王子 
+line:870     points: 9.4 name: 福尔摩斯探案集（二） 
+line:873     points: 9.4 name: 烙印戰士 1 
+line:876     points: 9.4 name: 陶渊明集 
+line:889     points: 9.4 name: 塔希里亚故事集Ⅱ 
+line:931     points: 9.4 name: 小熊宝宝绘本（全15册） 
+line:933     points: 9.4 name: 农民进城防骗手册 
+line:949     points: 9.4 name: 中国少年儿童百科全书（文化艺术） 
+line:950     points: 9.4 name: 基督山伯爵 
+line:960     points: 9.4 name: 南京大屠杀 
+line:968     points: 9.4 name: 聆听音乐 
+line:1014     points: 9.4 name: バガボンド (20) 
+line:1028     points: 9.4 name: 福尔摩斯探案集（四） 
+line:1029     points: 9.4 name: 秦汉魏晋史探微 
+line:1040     points: 9.4 name: 猜猜我有多爱你 
+line:1042     points: 9.4 name: 叔本华思想随笔 
+line:1047     points: 9.4 name: 冰与火之歌·卷二·列王的纷争（中） 
+line:1072     points: 9.4 name: 百年孤独 
+line:1078     points: 9.4 name: MONSTER-怪物-18 
+line:1096     points: 9.4 name: 规训与惩罚(修订译本)(第4版) 
+line:1098     points: 9.4 name: 现代汉语词典（第5版） 
+line:1105     points: 9.4 name: 动物庄园 
+line:1106     points: 9.4 name: 银河英雄传说VOL.8 乱离篇 
+line:1110     points: 9.4 name: 银河英雄传说 
+line:1111     points: 9.4 name: 彷徨 
+line:1123     points: 9.4 name: 坟 
+line:1124     points: 9.4 name: 冰与火之歌·卷二·列王的纷争（下） 
+line:1149     points: 9.4 name: Ｊの総て ２ 
+line:1166     points: 9.4 name: 算法（第4版） 
+line:1172     points: 9.4 name: 杀死一只知更鸟 
+line:1194     points: 9.4 name: JOJO的奇妙冒險STEEL BALL RUN飆馬野郎(01) 
+line:1215     points: 9.4 name: 伊凡诺夫·海鸥 
+line:1222     points: 9.4 name: 一九八四 
+line:1245     points: 9.4 name: 中国少年儿童百科全书（人类社会） 
+line:1282     points: 9.4 name: 父与子全集 
+line:1304     points: 9.4 name: 英语词根与单词的说文解字 
+line:1306     points: 9.4 name: 最後的問題 : 西方短篇科幻小說精選 
+line:1307     points: 9.4 name: 西南联大英文课 
+line:1313     points: 9.4 name: 小学生十万个为什么 
+line:1327     points: 9.4 name: 麒麟·戰爭之王·浴血南珈 
+line:1328     points: 9.4 name: 哈农钢琴练指法 
+line:1339     points: 9.4 name: 小王子 
+line:1345     points: 9.4 name: 飘 
+line:1353     points: 9.4 name: 羊道三部曲(共3册) 
+line:1354     points: 9.4 name: 唐诗鉴赏辞典 
+line:1355     points: 9.4 name: 三体全集 
+line:1364     points: 9.4 name: 麒麟·戰爭之王·劫後重生 
+line:1386     points: 9.4 name: 神雕侠侣（套装共4册） 
+line:1394     points: 9.4 name: 麒麟·戰爭之王·海外護航 
+line:1404     points: 9.4 name: NANA (Vol. 14) 
+line:1414     points: 9.4 name: 文字学概要 
+line:44     points: 9.5 name: 海贼王 
+line:51     points: 9.5 name: 机器猫哆啦A梦23 
+line:53     points: 9.5 name: 灌篮高手31 
+line:83     points: 9.5 name: 史记（全十册） 
+line:109     points: 9.5 name: 冰与火之歌（卷三） 
+line:142     points: 9.5 name: 冰与火之歌 
+line:209     points: 9.5 name: 冰与火之歌·卷二·列王的纷争（全三册） 
+line:224     points: 9.5 name: DEPART 
+line:256     points: 9.5 name: 银河帝国：基地七部曲 
+line:263     points: 9.5 name: 金庸作品集 
+line:268     points: 9.5 name: 飘 
+line:278     points: 9.5 name: 金刚经 
+line:285     points: 9.5 name: 史记 
+line:293     points: 9.5 name: 鲁迅全集（2005最新修订版） 
+line:300     points: 9.5 name: 悲惨世界 
+line:312     points: 9.5 name: 七龙珠 
+line:349     points: 9.5 name: 魔戒 
+line:352     points: 9.5 name: 南京大屠杀 
+line:364     points: 9.5 name: 英语魔法师之语法俱乐部 
+line:366     points: 9.5 name: 雕刻时光 
+line:405     points: 9.5 name: 道德经 
+line:417     points: 9.5 name: 梵高手稿 
+line:420     points: 9.5 name: 三毛典藏全集 
+line:421     points: 9.5 name: 奥斯维辛 
+line:424     points: 9.5 name: 卡拉马佐夫兄弟 
+line:467     points: 9.5 name: 卒業生−春− ＥＤＧＥＣＯＭＩＸ 
+line:476     points: 9.5 name: 深入理解计算机系统 
+line:483     points: 9.5 name: 丁丁历险记（共22本） 
+line:487     points: 9.5 name: 卒業生−冬− ＥＤＧＥＣＯＭＩＸ 
+line:488     points: 9.5 name: 资治通鉴 
+line:511     points: 9.5 name: 红楼梦（上下） 
+line:513     points: 9.5 name: 机器猫哆啦A梦1 
+line:528     points: 9.5 name: 狐狸的窗户 
+line:531     points: 9.5 name: 冰与火之歌（卷一） 
+line:545     points: 9.5 name: 计算机程序的构造和解释(原书第2版) 
+line:546     points: 9.5 name: 老子 
+line:549     points: 9.5 name: 艺术的故事 
+line:576     points: 9.5 name: 战争与和平 
+line:628     points: 9.5 name: 跨越边界的社区（修订版） 
+line:655     points: 9.5 name: 一九八四 
+line:661     points: 9.5 name: 悲惨世界 
+line:670     points: 9.5 name: 四世同堂 
+line:671     points: 9.5 name: 麒麟之兵天血地 
+line:721     points: 9.5 name: 魏晋之际的政治权力与家族网络 
+line:723     points: 9.5 name: A Game of Thrones 
+line:736     points: 9.5 name: 飘（上下） 
+line:773     points: 9.5 name: 费恩曼物理学讲义（第1卷） 
+line:783     points: 9.5 name: 白痴 
+line:785     points: 9.5 name: 牛津高阶英汉双解词典 （第六版） 
+line:807     points: 9.5 name: 未来ちゃん 
+line:824     points: 9.5 name: 昨日的世界 
+line:829     points: 9.5 name: 呐喊 
+line:902     points: 9.5 name: 月刊少女野崎くん 02 
+line:909     points: 9.5 name: 动物庄园 
+line:928     points: 9.5 name: 阿拉蕾全集 
+line:929     points: 9.5 name: 红楼梦 
+line:946     points: 9.5 name: 棒球英豪（21-26） 
+line:954     points: 9.5 name: 红楼梦 
+line:955     points: 9.5 name: 飘 
+line:974     points: 9.5 name: Sherlock Holmes 
+line:981     points: 9.5 name: Pattern Recognition and Machine Learning 
+line:989     points: 9.5 name: 脂砚斋重评石头记甲戌校本 
+line:991     points: 9.5 name: 下課後，怪獸家點名 
+line:1031     points: 9.5 name: 冰与火之歌·卷三·冰雨的风暴（上） 
+line:1034     points: 9.5 name: 抵岸 
+line:1038     points: 9.5 name: 竹光侍 1 
+line:1041     points: 9.5 name: 荒野之歌 
+line:1055     points: 9.5 name: 塔希里亚故事集Ⅲ 
+line:1059     points: 9.5 name: 中国古代文化常识（插图修订第4版） 
+line:1063     points: 9.5 name: 三国演义（共两册） 
+line:1082     points: 9.5 name: 哈利.波特-(珍藏版)(全七册) 
+line:1091     points: 9.5 name: 囀る鳥は羽ばたかない 1 
+line:1103     points: 9.5 name: 罪与罚 
+line:1113     points: 9.5 name: 孔乙己 
+line:1129     points: 9.5 name: 红楼梦 
+line:1136     points: 9.5 name: Effective C++ 
+line:1146     points: 9.5 name: 地藏菩萨本愿经 
+line:1148     points: 9.5 name: 孙子兵法 
+line:1155     points: 9.5 name: 唐诗三百首 
+line:1161     points: 9.5 name: 魔戒（插图珍藏版） 
+line:1165     points: 9.5 name: Gone with the Wind 
+line:1170     points: 9.5 name: 钢之炼金术师1-5 
+line:1182     points: 9.5 name: 海底的秘密 
+line:1209     points: 9.5 name: 獵人01 
+line:1220     points: 9.5 name: 罪与罚 
+line:1234     points: 9.5 name: 古文观止（上下） 
+line:1235     points: 9.5 name: 石头记 
+line:1255     points: 9.5 name: DEPART 平装版 
+line:1258     points: 9.5 name: 唐宋词鉴赏辞典(唐五代北宋) 
+line:1290     points: 9.5 name: 三国演义 
+line:7     points: 9.6 name: 红楼梦 
+line:81     points: 9.6 name: 艺术的故事 
+line:102     points: 9.6 name: 红楼梦 
+line:111     points: 9.6 name: 篮球飞人 
+line:231     points: 9.6 name: 冰与火之歌·卷三·冰雨的风暴（全三册） 
+line:314     points: 9.6 name: 红楼梦 
+line:322     points: 9.6 name: 守望者（上） 
+line:353     points: 9.6 name: 金庸全集 
+line:396     points: 9.6 name: 守望者（下） 
+line:464     points: 9.6 name: 经济学原理(第7版) 
+line:506     points: 9.6 name: 五月天之素人自拍 
+line:534     points: 9.6 name: 美语音标 
+line:575     points: 9.6 name: 心经 
+line:586     points: 9.6 name: 灌篮高手1 
+line:605     points: 9.6 name: 经济学原理 
+line:610     points: 9.6 name: 脂砚斋重评石头记庚辰校本 
+line:668     points: 9.6 name: 存在主义心理治疗 
+line:702     points: 9.6 name: 原动画基础教程 
+line:743     points: 9.6 name: 十日后 
+line:771     points: 9.6 name: 卡拉马佐夫兄弟 
+line:774     points: 9.6 name: 松风 
+line:881     points: 9.6 name: 隋唐制度渊源略论稿 唐代政治史述论稿 
+line:882     points: 9.6 name: 中国历史地图集（全八册） 
+line:898     points: 9.6 name: The C Programming Language 
+line:999     points: 9.6 name: 冰与火之歌·卷三·冰雨的风暴（中） 
+line:1026     points: 9.6 name: 经济学原理(第7版) 
+line:1070     points: 9.6 name: 银河帝国：机器人五部曲 
+line:1081     points: 9.6 name: 冰与火之歌·卷三·冰雨的风暴（下） 
+line:1083     points: 9.6 name: 春秋左传注（全四册） 
+line:1118     points: 9.6 name: 红楼梦 
+line:1120     points: 9.6 name: 你好小朋友复刻版 
+line:1128     points: 9.6 name: Verbal Advantage 
+line:50     points: 9.7 name: 哈利•波特 
+line:93     points: 9.7 name: 机器猫哆啦A梦（共45册） 
+line:223     points: 9.7 name: 卡拉马佐夫兄弟 
+line:340     points: 9.7 name: 红楼梦 
+line:359     points: 9.7 name: Merriam-Webster&#39;s Vocabulary Builder 
+line:413     points: 9.7 name: 深入理解计算机系统（原书第2版） 
+line:658     points: 9.7 name: 龙珠(全42册) 
+line:687     points: 9.7 name: 红楼梦 
+line:692     points: 9.7 name: 鲁迅全集 
+line:739     points: 9.7 name: 飘 
+line:1000     points: 9.7 name: 灌篮高手十日后画册 
+line:197     points: 9.8 name: 灌篮高手（全31卷） 
+line:516     points: 9.8 name: 灌籃高手完全版 1 
+line:521     points: 9.8 name: 哈尔罗杰历险记(全套共14册) 
+line:766     points: 9.8 name: 红楼梦脂评汇校本 
+line:890     points: 9.8 name: 深入理解计算机系统（原书第3版） 
+line:944     points: 9.8 name: 脂砚斋评石头记（上下） 
+line:302     points: 9.9 name: 助张继科成就大满贯 
+line:303     points: 9.9 name: 红楼梦 
+line:435     points: 9.9 name: 世界童话名著连环画 
